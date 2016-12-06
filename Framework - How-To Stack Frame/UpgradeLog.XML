@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Stack Frame">
+</Property><Property Name="方案檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\How-To Stack Frame.sln">
+</Property><Property Name="Date" Value="2008年10月30日">
+</Property><Property Name="Time" Value="下午 18:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Stack Frame.sln" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\How-To Stack Frame.sln">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="How-To Stack Frame.csproj" Description="專案檔已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\How-To Stack Frame.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="How-To Stack Frame.csproj.user" Description="專案使用者檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\How-To Stack Frame.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="AssemblyInfo.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="frmAbout.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="frmMain.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="How-To.ico" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\How-To.ico">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="ReadMe.htm" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="frmAbout.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="frmMain.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="How-To Stack Frame.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Stack Frame" Source="How-To Stack Frame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Stack Frame.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Stack Frame.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Stack Frame" Source="How-To Stack Frame.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\bin\Debug\How-To Forms Inheritance.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\bin\Debug\How-To Forms Inheritance.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\frmBase.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\frmDataGrid.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\frmRichTextBox.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\frmStatus.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\How-To Forms Inheritance.csproj.GenerateResource.Cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\How-To Forms Inheritance.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Inherited Windows Forms\obj\Debug\How-To Forms Inheritance.pdb

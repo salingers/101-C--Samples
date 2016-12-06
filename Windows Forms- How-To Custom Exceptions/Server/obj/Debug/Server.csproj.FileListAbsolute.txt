@@ -1,0 +1,5 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Server\bin\Debug\Server.dll
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Server\bin\Debug\Server.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Server\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Server\obj\Debug\Server.dll
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Server\obj\Debug\Server.pdb

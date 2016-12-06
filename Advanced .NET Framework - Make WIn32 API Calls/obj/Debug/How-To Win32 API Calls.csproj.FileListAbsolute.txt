@@ -1,0 +1,20 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\bin\Debug\How-To Win32 API Calls.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\bin\Debug\How-To Win32 API Calls.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\bin\Debug\How-To Win32 API Calls.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\bin\Debug\How-To Win32 API Calls.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.csproj.GenerateResource.Cache
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\bin\Debug\How-To Win32 API Calls.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\bin\Debug\How-To Win32 API Calls.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\frmMain.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Make WIn32 API Calls\obj\Debug\How-To Win32 API Calls.csproj.GenerateResource.Cache

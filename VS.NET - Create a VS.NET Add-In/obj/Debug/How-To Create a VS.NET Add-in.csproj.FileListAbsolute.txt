@@ -1,0 +1,15 @@
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\bin\Debug\How-To Create a VS.NET Add-in.exe
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\bin\Debug\How-To Create a VS.NET Add-in.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\bin\Debug\envdte.dll
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\bin\Debug\envdte.xml
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\frmAbout.resources
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\ResGen.read.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\ResGen.write.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\How-To Create a VS.NET Add-in.exe
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\How-To Create a VS.NET Add-in.pdb
+S:\Documents\Sample\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\How-To Create a VS.NET Add-in.exe
+S:\Documents\Sample\101 C# Samples\VS.NET - Create a VS.NET Add-In\obj\Debug\How-To Create a VS.NET Add-in.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Reading and Writing with a Text File">
+</Property><Property Name="方案檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\How-To Reading and Writing with a Text File.sln">
+</Property><Property Name="使用者選項檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\How-To Reading and Writing with a Text File.suo">
+</Property><Property Name="Date" Value="2010年7月13日">
+</Property><Property Name="Time" Value="上午 11:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Reading and Writing with a Text File.sln" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\How-To Reading and Writing with a Text File.sln">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Reading and Writing with a Text File.suo" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\How-To Reading and Writing with a Text File.suo">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="How-To Reading and Writing with a Text File.csproj" Description="專案檔已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\How-To Reading and Writing with a Text File.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="How-To Reading and Writing with a Text File.csproj.user" Description="專案使用者檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\How-To Reading and Writing with a Text File.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="AssemblyInfo.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="frmAbout.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="frmMain.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="ReadMe.htm" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="frmAbout.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="frmMain.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="How-To Reading and Writing with a Text File.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Reading and Writing with a Text File" Source="How-To Reading and Writing with a Text File.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Reading and Writing with a Text File.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Reading and Writing with a Text File.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Reading and Writing with a Text File" Source="How-To Reading and Writing with a Text File.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

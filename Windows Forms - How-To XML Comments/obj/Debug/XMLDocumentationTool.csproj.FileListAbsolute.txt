@@ -1,0 +1,12 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\AssemblyTreeView.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\DescriptoBox.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\ErrorTable.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\FindDialog.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\MainWindow.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\NodeWindow.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\OpenFiles.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\VersionInfo.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\obj\Debug\ResGen.write.1.tlog

@@ -1,0 +1,19 @@
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\ResolveAssemblyReference.cache
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\VEHEVENT.csproj.ResolveComReference.cache
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\frmAbout.resources
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\frmMain.resources
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\ResGen.read.1.tlog
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\ResGen.write.1.tlog
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\bin\Debug\How-To Office Automation.exe
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\bin\Debug\How-To Office Automation.pdb
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\How-To Office Automation.exe
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\How-To Office Automation.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\VEHEVENT.csproj.ResolveComReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\bin\Debug\VEHEVENT.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\bin\Debug\VEHEVENT.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\VEHEVENT.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\VEHEVENT.csproj.GenerateResource.Cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\VEHEVENT.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\VEHEVENT.pdb

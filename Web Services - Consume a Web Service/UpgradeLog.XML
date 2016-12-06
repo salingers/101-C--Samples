@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Consume Web Service">
+</Property><Property Name="方案檔" Value="F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\How-To Consume Web Service.sln">
+</Property><Property Name="Date" Value="2011年6月14日">
+</Property><Property Name="Time" Value="下午 17:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Consume Web Service.sln" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\How-To Consume Web Service.sln">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="How-To Consume Web Service.csproj" Description="專案檔已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\How-To Consume Web Service.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="How-To Consume Web Service.csproj.user" Description="專案使用者檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\How-To Consume Web Service.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="AssemblyInfo.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="frmAbout.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="frmMain.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="frmStatus.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\frmStatus.cs">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\Esynaps\Reference.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\Esynaps\Reference.cs">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\PerfectXML\Reference.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\PerfectXML\Reference.cs">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\Esynaps\DailyDiblert.disco" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\Esynaps\DailyDiblert.disco">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\Esynaps\DailyDiblert.wsdl" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\Esynaps\DailyDiblert.wsdl">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\Esynaps\Reference.map" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\Esynaps\Reference.map">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\PerfectXML\BookService.disco" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\PerfectXML\BookService.disco">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\PerfectXML\BookService.wsdl" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\PerfectXML\BookService.wsdl">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="Web References\PerfectXML\Reference.map" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\Web References\PerfectXML\Reference.map">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="ecc_countries.xml" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\ecc_countries.xml">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="ReadMe.htm" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="frmAbout.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="frmMain.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="frmStatus.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\Backup\frmStatus.resx">
+</Event><Event ErrorLevel="1" Project="How-To Consume Web Service" Source="How-To Consume Web Service.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="How-To Consume Web Service.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Consume Web Service" Source="How-To Consume Web Service.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Consume Web Service.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Consume Web Service.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Consume Web Service" Source="How-To Consume Web Service.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

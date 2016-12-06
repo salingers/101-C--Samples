@@ -1,0 +1,8 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\bin\Debug\How-To Windows Management Instrumentation.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\bin\Debug\How-To Windows Management Instrumentation.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\obj\Debug\How-To Windows Management Instrumentation.csproj.GenerateResource.Cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\obj\Debug\How-To Windows Management Instrumentation.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Using WMI\obj\Debug\How-To Windows Management Instrumentation.pdb

@@ -1,0 +1,9 @@
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\obj\Debug\How-To Data Binding with Navigation.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\obj\Debug\How-To Data Binding with Navigation.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\bin\Debug\How-To Data Binding with Navigation.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\bin\Debug\How-To Data Binding with Navigation.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\obj\Debug\How-To Data Binding with Navigation.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\obj\Debug\frmStatus.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To Data Binding with Navigation\obj\Debug\How-To Data Binding with Navigation.csproj.GenerateResource.Cache

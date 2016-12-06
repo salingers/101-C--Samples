@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Working With GDI+ - Pens">
+</Property><Property Name="方案檔" Value="F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\How-To Working With GDI+ - Pens.sln">
+</Property><Property Name="Date" Value="2006年8月28日">
+</Property><Property Name="Time" Value="上午 11:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Working With GDI+ - Pens.sln" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\How-To Working With GDI+ - Pens.sln">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="How-To Working With GDI+ - Pens.csproj" Description="專案檔已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\How-To Working With GDI+ - Pens.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="How-To Working With GDI+ - Pens.csproj.user" Description="專案使用者檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\How-To Working With GDI+ - Pens.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="AssemblyInfo.cs" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="frmAbout.cs" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="frmMain.cs" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="ReadMe.htm" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="WaterLilies.jpg" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\WaterLilies.jpg">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="frmAbout.resx" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="frmMain.resx" Description="檔案已成功備份為 F:\資源錦囊\101 C# Samples\NET Framework - How-To Working with GDI+  Pens\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="How-To Working With GDI+ - Pens.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Working With GDI+ - Pens" Source="How-To Working With GDI+ - Pens.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Working With GDI+ - Pens.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Working With GDI+ - Pens.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Working With GDI+ - Pens" Source="How-To Working With GDI+ - Pens.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,9 @@
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\bin\Debug\How-To Configuration Settings.exe.config
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\bin\Debug\How-To Configuration Settings.exe
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\bin\Debug\How-To Configuration Settings.pdb
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\obj\Debug\How-To Configuration Settings.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\obj\Debug\frmAbout.resources
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\obj\Debug\How-To Configuration Settings.csproj.GenerateResource.Cache
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\obj\Debug\How-To Configuration Settings.exe
+S:\Documents\Sample\101 C# Samples\Framework - How-To Configuration Settings\obj\Debug\How-To Configuration Settings.pdb

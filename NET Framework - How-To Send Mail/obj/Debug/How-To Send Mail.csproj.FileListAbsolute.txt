@@ -1,0 +1,9 @@
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\obj\Debug\frmStatus.resources
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\bin\Debug\How-To Send Mail.exe
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\bin\Debug\How-To Send Mail.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\obj\Debug\How-To Send Mail.exe
+F:\My Library\Visual Studio Library\101 C# Samples\NET Framework - How-To Send Mail\obj\Debug\How-To Send Mail.pdb

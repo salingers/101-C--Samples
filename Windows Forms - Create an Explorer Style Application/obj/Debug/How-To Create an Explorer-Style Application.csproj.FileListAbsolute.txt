@@ -1,0 +1,13 @@
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\bin\Debug\How-To Create an Explorer-Style Application.exe
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\bin\Debug\How-To Create an Explorer-Style Application.pdb
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\How-To Create an Explorer-Style Application.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\DirectoryScanner.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\DirectoryTreeView.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\ExplorerStyleViewer.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\FileListView.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\MenuItemView.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\frmAbout.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\How-To Create an Explorer-Style Application.csproj.GenerateResource.Cache
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\How-To Create an Explorer-Style Application.exe
+S:\Documents\Sample\101 C# Samples\Windows Forms - Create an Explorer Style Application\obj\Debug\How-To Create an Explorer-Style Application.pdb

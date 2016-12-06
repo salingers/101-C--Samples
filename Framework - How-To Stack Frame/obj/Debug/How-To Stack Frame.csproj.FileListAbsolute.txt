@@ -1,0 +1,10 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\bin\Debug\How-To Stack Frame.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\bin\Debug\How-To Stack Frame.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\How-To Stack Frame.csproj.GenerateResource.Cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\How-To Stack Frame.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\How-To Stack Frame.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\How-To Stack Frame.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Stack Frame\obj\Debug\How-To Stack Frame.pdb

@@ -1,0 +1,16 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\bin\Debug\How-To Working With GDI+ - Text.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\bin\Debug\How-To Working With GDI+ - Text.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\How-To Working With GDI+ - Text.csproj.GenerateResource.Cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\How-To Working With GDI+ - Text.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\How-To Working With GDI+ - Text.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\How-To Working With GDI+ - Text.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\How-To Working With GDI+ - Text.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\bin\Debug\How-To Working With GDI+ - Text.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\bin\Debug\How-To Working With GDI+ - Text.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\How-To Working With GDI+ - Text.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Working with GDI+ Text\obj\Debug\How-To Working With GDI+ - Text.csproj.GenerateResource.Cache

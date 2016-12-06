@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="mnuMain.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="mnuExit.Text" xml:space="preserve">
+    <value>E&amp;xit</value>
+  </data>
+  <data name="MenuItem1.Text" xml:space="preserve">
+    <value>&amp;File</value>
+  </data>
+  <data name="mnuAbout.Text" xml:space="preserve">
+    <value>&amp;About</value>
+  </data>
+  <data name="MenuItem2.Text" xml:space="preserve">
+    <value>&amp;Help</value>
+  </data>
+  <data name="btnPreviewBasicReport.AccessibleDescription" xml:space="preserve">
+    <value>Preview Top Ten Products Report</value>
+  </data>
+  <data name="btnPreviewBasicReport.AccessibleName" xml:space="preserve">
+    <value>Preview Top ten Products button</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnPreviewBasicReport.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnPreviewBasicReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 30</value>
+  </data>
+  <data name="btnPreviewBasicReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 28</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnPreviewBasicReport.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnPreviewBasicReport.Text" xml:space="preserve">
+    <value>Preview Top Ten Products  Report</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewBasicReport.Name" xml:space="preserve">
+    <value>btnPreviewBasicReport</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewBasicReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewBasicReport.Parent" xml:space="preserve">
+    <value>tpReportBasic</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewBasicReport.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="crvBasic.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="crvBasic.DisplayGroupTree" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvBasic.DisplayToolbar" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvBasic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 89</value>
+  </data>
+  <data name="crvBasic.ShowGroupTreeButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvBasic.ShowRefreshButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvBasic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1240, 611</value>
+  </data>
+  <data name="crvBasic.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;crvBasic.Name" xml:space="preserve">
+    <value>crvBasic</value>
+  </data>
+  <data name="&gt;&gt;crvBasic.Type" xml:space="preserve">
+    <value>CrystalDecisions.Windows.Forms.CrystalReportViewer, CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304</value>
+  </data>
+  <data name="&gt;&gt;crvBasic.Parent" xml:space="preserve">
+    <value>tpReportBasic</value>
+  </data>
+  <data name="&gt;&gt;crvBasic.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tpReportBasic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tpReportBasic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1241, 705</value>
+  </data>
+  <data name="tpReportBasic.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tpReportBasic.Text" xml:space="preserve">
+    <value>Basic Report</value>
+  </data>
+  <data name="&gt;&gt;tpReportBasic.Name" xml:space="preserve">
+    <value>tpReportBasic</value>
+  </data>
+  <data name="&gt;&gt;tpReportBasic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpReportBasic.Parent" xml:space="preserve">
+    <value>TabControl1</value>
+  </data>
+  <data name="&gt;&gt;tpReportBasic.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>469, 10</value>
+  </data>
+  <data name="Label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>222, 69</value>
+  </data>
+  <data name="Label4.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="Label4.Text" xml:space="preserve">
+    <value>The group tree on the left of the viewer provides quick navigation to different sections of the report.</value>
+  </data>
+  <data name="&gt;&gt;Label4.Name" xml:space="preserve">
+    <value>Label4</value>
+  </data>
+  <data name="&gt;&gt;Label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label4.Parent" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;Label4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnPreviewDynamicReport.AccessibleDescription" xml:space="preserve">
+    <value>Preview All Customers Orders Report</value>
+  </data>
+  <data name="btnPreviewDynamicReport.AccessibleName" xml:space="preserve">
+    <value>Preview All Customers Orders Report button</value>
+  </data>
+  <data name="btnPreviewDynamicReport.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnPreviewDynamicReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 49</value>
+  </data>
+  <data name="btnPreviewDynamicReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>230, 30</value>
+  </data>
+  <data name="btnPreviewDynamicReport.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btnPreviewDynamicReport.Text" xml:space="preserve">
+    <value>Preview All Customers Orders Report</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDynamicReport.Name" xml:space="preserve">
+    <value>btnPreviewDynamicReport</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDynamicReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDynamicReport.Parent" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDynamicReport.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 20</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 19</value>
+  </data>
+  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Select highlight color</value>
+  </data>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 20</value>
+  </data>
+  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>205, 19</value>
+  </data>
+  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Highlight products with a unit price &gt; </value>
+  </data>
+  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
+    <value>Label1</value>
+  </data>
+  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cbHighlightColor.AccessibleDescription" xml:space="preserve">
+    <value>Color selection</value>
+  </data>
+  <data name="cbHighlightColor.AccessibleName" xml:space="preserve">
+    <value>Combo box for color selection</value>
+  </data>
+  <data name="cbHighlightColor.ItemHeight" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="cbHighlightColor.Items" xml:space="preserve">
+    <value>Red</value>
+  </data>
+  <data name="cbHighlightColor.Items1" xml:space="preserve">
+    <value>Blue</value>
+  </data>
+  <data name="cbHighlightColor.Items2" xml:space="preserve">
+    <value>Green</value>
+  </data>
+  <data name="cbHighlightColor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>392, 16</value>
+  </data>
+  <data name="cbHighlightColor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 20</value>
+  </data>
+  <data name="cbHighlightColor.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="cbHighlightColor.Text" xml:space="preserve">
+    <value>Red</value>
+  </data>
+  <data name="&gt;&gt;cbHighlightColor.Name" xml:space="preserve">
+    <value>cbHighlightColor</value>
+  </data>
+  <data name="&gt;&gt;cbHighlightColor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbHighlightColor.Parent" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;cbHighlightColor.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtUnitsToHighlight.AccessibleDescription" xml:space="preserve">
+    <value>Unit Price to use in report</value>
+  </data>
+  <data name="txtUnitsToHighlight.AccessibleName" xml:space="preserve">
+    <value>Unit price text box</value>
+  </data>
+  <data name="txtUnitsToHighlight.Location" type="System.Drawing.Point, System.Drawing">
+    <value>223, 15</value>
+  </data>
+  <data name="txtUnitsToHighlight.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 22</value>
+  </data>
+  <data name="txtUnitsToHighlight.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="txtUnitsToHighlight.Text" xml:space="preserve">
+    <value>50</value>
+  </data>
+  <data name="&gt;&gt;txtUnitsToHighlight.Name" xml:space="preserve">
+    <value>txtUnitsToHighlight</value>
+  </data>
+  <data name="&gt;&gt;txtUnitsToHighlight.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtUnitsToHighlight.Parent" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;txtUnitsToHighlight.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="crvDynamicFormat.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="crvDynamicFormat.DisplayGroupTree" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvDynamicFormat.DisplayToolbar" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvDynamicFormat.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 89</value>
+  </data>
+  <data name="crvDynamicFormat.ShowGroupTreeButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvDynamicFormat.ShowRefreshButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvDynamicFormat.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1032, 611</value>
+  </data>
+  <data name="crvDynamicFormat.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;crvDynamicFormat.Name" xml:space="preserve">
+    <value>crvDynamicFormat</value>
+  </data>
+  <data name="&gt;&gt;crvDynamicFormat.Type" xml:space="preserve">
+    <value>CrystalDecisions.Windows.Forms.CrystalReportViewer, CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304</value>
+  </data>
+  <data name="&gt;&gt;crvDynamicFormat.Parent" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;crvDynamicFormat.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="tpDynamicFormatReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tpDynamicFormatReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1033, 705</value>
+  </data>
+  <data name="tpDynamicFormatReport.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tpDynamicFormatReport.Text" xml:space="preserve">
+    <value>Dynamic Format Report</value>
+  </data>
+  <data name="&gt;&gt;tpDynamicFormatReport.Name" xml:space="preserve">
+    <value>tpDynamicFormatReport</value>
+  </data>
+  <data name="&gt;&gt;tpDynamicFormatReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpDynamicFormatReport.Parent" xml:space="preserve">
+    <value>TabControl1</value>
+  </data>
+  <data name="&gt;&gt;tpDynamicFormatReport.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnPreviewCustomerReport.AccessibleDescription" xml:space="preserve">
+    <value>Preview Customer Report</value>
+  </data>
+  <data name="btnPreviewCustomerReport.AccessibleName" xml:space="preserve">
+    <value>Preview Customer Report Button</value>
+  </data>
+  <data name="btnPreviewCustomerReport.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnPreviewCustomerReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>262, 35</value>
+  </data>
+  <data name="btnPreviewCustomerReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 28</value>
+  </data>
+  <data name="btnPreviewCustomerReport.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnPreviewCustomerReport.Text" xml:space="preserve">
+    <value>Preview Customer Orders Report</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewCustomerReport.Name" xml:space="preserve">
+    <value>btnPreviewCustomerReport</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewCustomerReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewCustomerReport.Parent" xml:space="preserve">
+    <value>tpParameterReport</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewCustomerReport.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblCustomer.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCustomer.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCustomer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 20</value>
+  </data>
+  <data name="lblCustomer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 12</value>
+  </data>
+  <data name="lblCustomer.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="lblCustomer.Text" xml:space="preserve">
+    <value>Select a Customer:</value>
+  </data>
+  <data name="&gt;&gt;lblCustomer.Name" xml:space="preserve">
+    <value>lblCustomer</value>
+  </data>
+  <data name="&gt;&gt;lblCustomer.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCustomer.Parent" xml:space="preserve">
+    <value>tpParameterReport</value>
+  </data>
+  <data name="&gt;&gt;lblCustomer.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbCustomers.AccessibleDescription" xml:space="preserve">
+    <value>Combo box for chossing Customer</value>
+  </data>
+  <data name="cbCustomers.AccessibleName" xml:space="preserve">
+    <value>Customer List</value>
+  </data>
+  <data name="cbCustomers.ItemHeight" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="cbCustomers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 39</value>
+  </data>
+  <data name="cbCustomers.Size" type="System.Drawing.Size, System.Drawing">
+    <value>230, 20</value>
+  </data>
+  <data name="cbCustomers.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;cbCustomers.Name" xml:space="preserve">
+    <value>cbCustomers</value>
+  </data>
+  <data name="&gt;&gt;cbCustomers.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbCustomers.Parent" xml:space="preserve">
+    <value>tpParameterReport</value>
+  </data>
+  <data name="&gt;&gt;cbCustomers.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="crvParameter.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="crvParameter.DisplayGroupTree" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvParameter.DisplayToolbar" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvParameter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 89</value>
+  </data>
+  <data name="crvParameter.ShowGroupTreeButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvParameter.ShowRefreshButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvParameter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1032, 611</value>
+  </data>
+  <data name="crvParameter.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;crvParameter.Name" xml:space="preserve">
+    <value>crvParameter</value>
+  </data>
+  <data name="&gt;&gt;crvParameter.Type" xml:space="preserve">
+    <value>CrystalDecisions.Windows.Forms.CrystalReportViewer, CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304</value>
+  </data>
+  <data name="&gt;&gt;crvParameter.Parent" xml:space="preserve">
+    <value>tpParameterReport</value>
+  </data>
+  <data name="&gt;&gt;crvParameter.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tpParameterReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tpParameterReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1033, 705</value>
+  </data>
+  <data name="tpParameterReport.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tpParameterReport.Text" xml:space="preserve">
+    <value>Parameter Report</value>
+  </data>
+  <data name="&gt;&gt;tpParameterReport.Name" xml:space="preserve">
+    <value>tpParameterReport</value>
+  </data>
+  <data name="&gt;&gt;tpParameterReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpParameterReport.Parent" xml:space="preserve">
+    <value>TabControl1</value>
+  </data>
+  <data name="&gt;&gt;tpParameterReport.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>213, 20</value>
+  </data>
+  <data name="Label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 49</value>
+  </data>
+  <data name="Label3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>The graph can be used to drill down to the detail of this report.</value>
+  </data>
+  <data name="&gt;&gt;Label3.Name" xml:space="preserve">
+    <value>Label3</value>
+  </data>
+  <data name="&gt;&gt;Label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label3.Parent" xml:space="preserve">
+    <value>tpGraphDrillDownReport</value>
+  </data>
+  <data name="&gt;&gt;Label3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnPreviewDrillDownReport.AccessibleDescription" xml:space="preserve">
+    <value>Preview DrillDown Report</value>
+  </data>
+  <data name="btnPreviewDrillDownReport.AccessibleName" xml:space="preserve">
+    <value>Preview DrillDown Report button</value>
+  </data>
+  <data name="btnPreviewDrillDownReport.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnPreviewDrillDownReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 30</value>
+  </data>
+  <data name="btnPreviewDrillDownReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 28</value>
+  </data>
+  <data name="btnPreviewDrillDownReport.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnPreviewDrillDownReport.Text" xml:space="preserve">
+    <value>Preview Drill Down Report</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDrillDownReport.Name" xml:space="preserve">
+    <value>btnPreviewDrillDownReport</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDrillDownReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDrillDownReport.Parent" xml:space="preserve">
+    <value>tpGraphDrillDownReport</value>
+  </data>
+  <data name="&gt;&gt;btnPreviewDrillDownReport.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="crvGraphDrillDown.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="crvGraphDrillDown.DisplayGroupTree" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvGraphDrillDown.DisplayToolbar" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvGraphDrillDown.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 89</value>
+  </data>
+  <data name="crvGraphDrillDown.ShowGroupTreeButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvGraphDrillDown.ShowRefreshButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="crvGraphDrillDown.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1032, 611</value>
+  </data>
+  <data name="crvGraphDrillDown.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;crvGraphDrillDown.Name" xml:space="preserve">
+    <value>crvGraphDrillDown</value>
+  </data>
+  <data name="&gt;&gt;crvGraphDrillDown.Type" xml:space="preserve">
+    <value>CrystalDecisions.Windows.Forms.CrystalReportViewer, CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304</value>
+  </data>
+  <data name="&gt;&gt;crvGraphDrillDown.Parent" xml:space="preserve">
+    <value>tpGraphDrillDownReport</value>
+  </data>
+  <data name="&gt;&gt;crvGraphDrillDown.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tpGraphDrillDownReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tpGraphDrillDownReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1033, 705</value>
+  </data>
+  <data name="tpGraphDrillDownReport.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tpGraphDrillDownReport.Text" xml:space="preserve">
+    <value>Graph Drill Down Report</value>
+  </data>
+  <data name="&gt;&gt;tpGraphDrillDownReport.Name" xml:space="preserve">
+    <value>tpGraphDrillDownReport</value>
+  </data>
+  <data name="&gt;&gt;tpGraphDrillDownReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tpGraphDrillDownReport.Parent" xml:space="preserve">
+    <value>TabControl1</value>
+  </data>
+  <data name="&gt;&gt;tpGraphDrillDownReport.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TabControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="TabControl1.ItemSize" type="System.Drawing.Size, System.Drawing">
+    <value>62, 18</value>
+  </data>
+  <data name="TabControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="TabControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1249, 731</value>
+  </data>
+  <data name="TabControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;TabControl1.Name" xml:space="preserve">
+    <value>TabControl1</value>
+  </data>
+  <data name="&gt;&gt;TabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TabControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TabControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>59</value>
+  </metadata>
+  <data name="$this.AutoScaleBaseSize" type="System.Drawing.Size, System.Drawing">
+    <value>5, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1249, 731</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzAAAAAAAAAAAAAAAzu7
+        u7u7szMAAAAAAAAAAD/7szMzAAAzMwAAAAAAAAA78zu7u7szADMAAAAAAAAAAz/7MzAAAzMAAAAAAAAA
+        AAADM/u7MzAAAAAAAAAAAAAAAAAwMzAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAzMAAAAAAAAA
+        AAAAAAAAAzuzMzMwAAAAAAAAAAAAAzuzAAAAAzAAAAAAAAAAADu7AFVmZVADMAAAAAAAAAP7MHd2VVZm
+        YDMAAAAAAAAAMwd4dohlZlUDMAAAAAAAAAB4LX7u5lVmUDAAAAAAAAAGctInftjmV1cDAAAAAAAABi0i
+        Lu3uImV3AwAAAAAAAN7t7u7e3iIld1AwAAAAAADe3n7t7u0ihlZQMAAAAAAAbe5+3u7i0tJlYDAAAAAA
+        AG2u7f7+4i0ihWAwAAAAAABnrt9/7+LScoVgMAAAAAAA2t6O9/79In5mUDMAAAAAAGqt7+9/fuqndlCz
+        AAAAAAAGp+7+9/6qrYYDswAAAAAABt7e5393qtp2CzAAAAAAAABu597u7t2ocLswAAAAAAAABt7t7u3q
+        dwOzAAAAAAAAAABm7t3e5mA/swAAAAAAAAAAAG1mbdAAPzAAAAAAAAAAAAAAAAAAAAMAAAAA/4AD//4A
+        AP/8AAB//AAAf/wAAH/+AAD//4AD///wH////H///+Af//+AB//+AAH//AAA//gAAH/8AAA//gAAP/4A
+        AB/+AAAf/AAAD/wAAA/8AAAP/AAAD/wAAA/8AAAP/AAAD/4AAA/+AAAf/wAAH/+AAD//wAA///Acf///
+        /v8oAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAP7MzMz
+        AAAAADO7MwAAAAAAADMwAAAAAAAAAwAAAAAAAAMzMAAAAAAAOzADMAAAAAOwZmAzAAAAAwLujQMwAAAN
+        7t7ScDAAAAZ+7eVgMAAABt7f1nCDAAAGrf/l0LMAAABu3u1gswAAAAbt1gswAAAAAIZoMwAA8A8AAOAH
+        AADwDwAA/D8AAP5/AAD4HwAA8A8AAOAHAADgAwAA4AMAAOADAADgAwAA4AMAAPADAAD4BwAA/A8AAA==
+</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Print/Preview Crystal Reports</value>
+  </data>
+  <data name="&gt;&gt;mnuMain.Name" xml:space="preserve">
+    <value>mnuMain</value>
+  </data>
+  <data name="&gt;&gt;mnuMain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MainMenu, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MenuItem1.Name" xml:space="preserve">
+    <value>MenuItem1</value>
+  </data>
+  <data name="&gt;&gt;MenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mnuExit.Name" xml:space="preserve">
+    <value>mnuExit</value>
+  </data>
+  <data name="&gt;&gt;mnuExit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MenuItem2.Name" xml:space="preserve">
+    <value>MenuItem2</value>
+  </data>
+  <data name="&gt;&gt;MenuItem2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mnuAbout.Name" xml:space="preserve">
+    <value>mnuAbout</value>
+  </data>
+  <data name="&gt;&gt;mnuAbout.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmMain</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

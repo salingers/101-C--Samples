@@ -1,0 +1,6 @@
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\ResolveAssemblyReference.cache
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\How-To Office Automation.csproj.ResolveComReference.cache
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\frmAbout.resources
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\frmMain.resources
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\ResGen.read.1.tlog
+J:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To Automate Office\obj\Debug\ResGen.write.1.tlog

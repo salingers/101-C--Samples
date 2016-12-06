@@ -1,0 +1,16 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\obj\Debug\How-To DateTime.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\obj\Debug\How-To DateTime.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\bin\Debug\How-To DateTime.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\bin\Debug\How-To DateTime.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Language - How-To DateTime\obj\Debug\ResGen.write.1.tlog
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To DateTime\obj\Debug\How-To DateTime.exe
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To DateTime\obj\Debug\How-To DateTime.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To DateTime\bin\Debug\How-To DateTime.exe
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To DateTime\bin\Debug\How-To DateTime.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To DateTime\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To DateTime\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To DateTime\obj\Debug\How-To DateTime.csproj.GenerateResource.Cache

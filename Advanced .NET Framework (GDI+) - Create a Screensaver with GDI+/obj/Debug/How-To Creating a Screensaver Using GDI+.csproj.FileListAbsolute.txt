@@ -1,0 +1,18 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\bin\Debug\How-To Creating a Screensaver Using GDI+.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\bin\Debug\How-To Creating a Screensaver Using GDI+.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\How-To Creating a Screensaver Using GDI+.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\How-To Creating a Screensaver Using GDI+.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\GenerateResource-ResGen.read.1.tlog
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\GenerateResource.read.1.tlog
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\GenerateResource-ResGen.write.1.tlog
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\How-To Creating a Screensaver Using GDI+.exe
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\How-To Creating a Screensaver Using GDI+.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\bin\Debug\How-To Creating a Screensaver Using GDI+.exe
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\bin\Debug\How-To Creating a Screensaver Using GDI+.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\How-To Creating a Screensaver Using GDI+.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\frmAbout.resources
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\obj\Debug\How-To Creating a Screensaver Using GDI+.csproj.GenerateResource.Cache

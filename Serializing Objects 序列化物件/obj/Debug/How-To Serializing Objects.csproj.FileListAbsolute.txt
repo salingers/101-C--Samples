@@ -1,0 +1,24 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\bin\Debug\HowTo.SerializingObjects.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\bin\Debug\HowTo.SerializingObjects.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\HowTo.SerializingObjects.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\HowTo.SerializingObjects.pdb
+S:\Documents\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\HowTo.SerializingObjects.exe
+S:\Documents\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\HowTo.SerializingObjects.pdb
+S:\Documents\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\bin\Debug\HowTo.SerializingObjects.exe
+S:\Documents\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\bin\Debug\HowTo.SerializingObjects.pdb
+S:\Documents\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\How-To Serializing Objects.csprojResolveAssemblyReference.cache
+S:\Documents\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\frmMain.resources
+S:\Documents\My Library\Visual Studio Library\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\How-To Serializing Objects.csproj.GenerateResource.Cache
+S:\Documents\Sample\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\HowTo.SerializingObjects.exe
+S:\Documents\Sample\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\HowTo.SerializingObjects.pdb
+S:\Documents\Sample\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\bin\Debug\HowTo.SerializingObjects.exe
+S:\Documents\Sample\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\bin\Debug\HowTo.SerializingObjects.pdb
+S:\Documents\Sample\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\How-To Serializing Objects.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Advanced - Serialization - How-To Serializing Objects\obj\Debug\How-To Serializing Objects.csproj.GenerateResource.Cache
+S:\Documents\Sample\101 C# Samples\Serializing Objects 序列化物件\obj\Debug\HowTo.SerializingObjects.exe
+S:\Documents\Sample\101 C# Samples\Serializing Objects 序列化物件\obj\Debug\HowTo.SerializingObjects.pdb

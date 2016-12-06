@@ -1,0 +1,9 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\bin\Debug\How-To Data Entry Form.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\bin\Debug\How-To Data Entry Form.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\obj\Debug\frmStatus.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\obj\Debug\How-To Create a Data Entry Form.csproj.GenerateResource.Cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\obj\Debug\How-To Data Entry Form.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\obj\Debug\How-To Data Entry Form.pdb

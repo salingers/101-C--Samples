@@ -1,0 +1,3 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use the Clipboard\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use the Clipboard\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use the Clipboard\obj\Debug\frmMain.resources

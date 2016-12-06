@@ -1,0 +1,11 @@
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\bin\Debug\Host.exe.config
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\bin\Debug\Host.exe
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\bin\Debug\Host.pdb
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\bin\Debug\RemoteCustomer.dll
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\bin\Debug\RemoteCustomer.pdb
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\obj\Debug\frmAbout.resources
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\obj\Debug\Host.csproj.GenerateResource.Cache
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\obj\Debug\Host.exe
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Host\obj\Debug\Host.pdb

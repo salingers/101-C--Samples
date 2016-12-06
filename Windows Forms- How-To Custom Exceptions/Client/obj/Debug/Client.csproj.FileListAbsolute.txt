@@ -1,0 +1,6 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Client\bin\Debug\Client.exe.config
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Client\obj\Debug\Client.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Client\obj\Debug\Client.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Client\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Client\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms- How-To Custom Exceptions\Client\obj\Debug\frmMain.resources

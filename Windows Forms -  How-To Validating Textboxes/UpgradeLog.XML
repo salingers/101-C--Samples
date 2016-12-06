@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Validating TextBoxes">
+</Property><Property Name="方案檔" Value="F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\How-To Validating TextBoxes.sln">
+</Property><Property Name="Date" Value="2011年6月16日">
+</Property><Property Name="Time" Value="下午 17:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Validating TextBoxes.sln" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\How-To Validating TextBoxes.sln">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="How-To Validating TextBoxes.csproj" Description="專案檔已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\How-To Validating TextBoxes.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="How-To Validating TextBoxes.csproj.user" Description="專案使用者檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\How-To Validating TextBoxes.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="AssemblyInfo.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="EMailTextBox.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\EMailTextBox.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="frmAbout.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="frmMain.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="IPAddressTextBox.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\IPAddressTextBox.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="PhoneTextBox.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\PhoneTextBox.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="RegExTextBox.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\RegExTextBox.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="SsnTextBox.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\SsnTextBox.cs">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="ReadMe.htm" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="EMailTextBox.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\EMailTextBox.resx">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="frmAbout.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="frmMain.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="IPAddressTextBox.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\IPAddressTextBox.resx">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="PhoneTextBox.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\PhoneTextBox.resx">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="RegExTextBox.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\RegExTextBox.resx">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="SsnTextBox.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\Backup\SsnTextBox.resx">
+</Event><Event ErrorLevel="1" Project="How-To Validating TextBoxes" Source="How-To Validating TextBoxes.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="How-To Validating TextBoxes.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Validating TextBoxes" Source="How-To Validating TextBoxes.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Validating TextBoxes.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Validating TextBoxes.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Validating TextBoxes" Source="How-To Validating TextBoxes.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

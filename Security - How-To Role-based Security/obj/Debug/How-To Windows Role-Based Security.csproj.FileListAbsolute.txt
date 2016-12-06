@@ -1,0 +1,8 @@
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\bin\Debug\How-To Windows Role-Based Security.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\bin\Debug\How-To Windows Role-Based Security.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\obj\Debug\frmAbout.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\obj\Debug\frmMain.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\obj\Debug\frmProtected.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\obj\Debug\How-To Windows Role-Based Security.csproj.GenerateResource.Cache
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\obj\Debug\How-To Windows Role-Based Security.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Security - How-To Role-based Security\obj\Debug\How-To Windows Role-Based Security.pdb

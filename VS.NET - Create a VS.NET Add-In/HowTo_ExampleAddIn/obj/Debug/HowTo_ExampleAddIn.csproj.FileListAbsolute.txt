@@ -1,0 +1,6 @@
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\HowTo_ExampleAddIn\bin\HowTo_ExampleAddIn.dll
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\HowTo_ExampleAddIn\bin\HowTo_ExampleAddIn.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\HowTo_ExampleAddIn\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\HowTo_ExampleAddIn\obj\Debug\HowTo_ExampleAddIn.csproj.ResolveComReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\HowTo_ExampleAddIn\obj\Debug\HowTo_ExampleAddIn.dll
+G:\My Library\Visual Studio Library\101 C# Samples\VS.NET - Create a VS.NET Add-In\HowTo_ExampleAddIn\obj\Debug\HowTo_ExampleAddIn.pdb

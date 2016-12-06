@@ -1,0 +1,30 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.exe
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.exe
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.csproj.GenerateResource.Cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.csproj.GenerateResource.Cache
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\bin\Debug\How-To Interacting with a Windows Service.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.csprojResolveAssemblyReference.cache
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\frmMain.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Advanced .NET Framework - Interacting Windows Service\obj\Debug\How-To Interacting with a Windows Service.csproj.GenerateResource.Cache

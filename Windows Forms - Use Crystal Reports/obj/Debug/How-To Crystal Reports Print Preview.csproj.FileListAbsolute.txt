@@ -1,0 +1,21 @@
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\CrystalReportsPrintPreview.exe
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\CrystalReportsPrintPreview.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\CrystalReportsPrintPreview.CustomerOrders.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\frmAbout.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\frmStatus.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\ResGen.read.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\obj\Debug\ResGen.write.6.tlog
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\CrystalReportsPrintPreview.exe
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\CrystalReportsPrintPreview.pdb
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\bin\Debug\CrystalReportsPrintPreview.exe
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\bin\Debug\CrystalReportsPrintPreview.pdb
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\How-To Crystal Reports Print Preview.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\CrystalReportsPrintPreview.CustomerOrders.resources
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\frmAbout.resources
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\frmMain.resources
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\frmStatus.resources
+C:\Users\Administrator\Desktop\Windows Forms - Use Crystal Reports\obj\Debug\How-To Crystal Reports Print Preview.csproj.GenerateResource.Cache

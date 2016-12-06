@@ -1,0 +1,4 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Send and Receive Data\Framework - How-To Send and Receive Data\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Send and Receive Data\Framework - How-To Send and Receive Data\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Send and Receive Data\Framework - How-To Send and Receive Data\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Send and Receive Data\Framework - How-To Send and Receive Data\obj\Debug\ResGen.write.1.tlog

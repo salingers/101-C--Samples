@@ -1,0 +1,8 @@
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\obj\Debug\How-To DataGrid Formatting.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\obj\Debug\How-To DataGrid Formatting.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\bin\Debug\How-To DataGrid Formatting.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\bin\Debug\How-To DataGrid Formatting.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\obj\Debug\frmStatus.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To Data Grid Formatting\obj\Debug\How-To DataGrid Formatting.csproj.GenerateResource.Cache

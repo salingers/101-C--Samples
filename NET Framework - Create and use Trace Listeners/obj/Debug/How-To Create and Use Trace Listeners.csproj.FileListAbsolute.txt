@@ -1,0 +1,11 @@
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\bin\Debug\How-To Trace Listeners.exe
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\bin\Debug\How-To Trace Listeners.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\frmAbout.resources
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\ResGen.read.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\ResGen.write.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\How-To Trace Listeners.exe
+G:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Create and use Trace Listeners\obj\Debug\How-To Trace Listeners.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Owner Drawn Menus">
+</Property><Property Name="方案檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\How-To Owner Drawn Menus.sln">
+</Property><Property Name="使用者選項檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\How-To Owner Drawn Menus.suo">
+</Property><Property Name="Date" Value="2008年10月30日">
+</Property><Property Name="Time" Value="下午 18:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Owner Drawn Menus.sln" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\How-To Owner Drawn Menus.sln">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Owner Drawn Menus.suo" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\How-To Owner Drawn Menus.suo">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="How-To Owner Drawn Menus.csproj" Description="專案檔已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\How-To Owner Drawn Menus.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="How-To Owner Drawn Menus.csproj.user" Description="專案使用者檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\How-To Owner Drawn Menus.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="AssemblyInfo.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmAbout.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmIconModMenu.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmIconModMenu.cs">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmMain.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmTextModMenu.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmTextModMenu.cs">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="IconMenuItem.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\IconMenuItem.cs">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="exit.ico" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\exit.ico">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="open.ico" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\open.ico">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="ReadMe.htm" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="save.ico" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\save.ico">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmAbout.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmIconModMenu.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmIconModMenu.resx">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmMain.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="frmTextModMenu.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\frmTextModMenu.resx">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="IconMenuItem.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\Backup\IconMenuItem.resx">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="How-To Owner Drawn Menus.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Owner Drawn Menus" Source="How-To Owner Drawn Menus.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Owner Drawn Menus.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Owner Drawn Menus.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Owner Drawn Menus" Source="How-To Owner Drawn Menus.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

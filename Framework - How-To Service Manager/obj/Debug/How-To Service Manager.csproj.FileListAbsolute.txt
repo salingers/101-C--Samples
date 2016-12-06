@@ -1,0 +1,9 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\bin\Debug\How-To Service Manager.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\bin\Debug\How-To Service Manager.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\obj\Debug\How-To Service Manager.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Service Manager\obj\Debug\How-To Service Manager.pdb

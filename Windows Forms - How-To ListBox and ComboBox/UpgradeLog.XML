@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To ListBox And ComboBox">
+</Property><Property Name="方案檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\How-To ListBox And ComboBox.sln">
+</Property><Property Name="Date" Value="2008年10月30日">
+</Property><Property Name="Time" Value="下午 18:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To ListBox And ComboBox.sln" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\How-To ListBox And ComboBox.sln">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="How-To ListBox.csproj" Description="專案檔已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\How-To ListBox.csproj">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="How-To ListBox.csproj.user" Description="專案使用者檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\How-To ListBox.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="AssemblyInfo.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="frmAbout.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="frmMain.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="frmStatus.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\frmStatus.cs">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="How-To.ico" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\How-To.ico">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="ReadMe.htm" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="frmAbout.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="frmMain.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="frmStatus.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\Backup\frmStatus.resx">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="How-To ListBox.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To ListBox" Source="How-To ListBox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To ListBox And ComboBox.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To ListBox And ComboBox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To ListBox" Source="How-To ListBox.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,27 @@
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\bin\Debug\How-To Do Animation with GDI+.exe
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\bin\Debug\How-To Do Animation with GDI+.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\frmAbout.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\ResGen.read.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\ResGen.write.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.exe
+G:\My Library\Visual Studio Library\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.exe
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\bin\Debug\How-To Do Animation with GDI+.exe
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\bin\Debug\How-To Do Animation with GDI+.pdb
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.csproj.GenerateResource.Cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\bin\Debug\How-To Do Animation with GDI+.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\bin\Debug\How-To Do Animation with GDI+.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.csproj.GenerateResource.Cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.exe
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Advanced .NET Framework (GDI+) - Animation with GDI+\obj\Debug\How-To Do Animation with GDI+.pdb

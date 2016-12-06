@@ -1,0 +1,28 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\bin\Debug\How-To ListBox And ComboBox.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\bin\Debug\How-To ListBox And ComboBox.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\frmStatus.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox.csproj.GenerateResource.Cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox And ComboBox.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox And ComboBox.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox And ComboBox.exe
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox And ComboBox.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\frmStatus.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\ResGen.read.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\ResGen.write.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\bin\Debug\How-To ListBox And ComboBox.exe
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\bin\Debug\How-To ListBox And ComboBox.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox And ComboBox.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox And ComboBox.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\bin\Debug\How-To ListBox And ComboBox.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\bin\Debug\How-To ListBox And ComboBox.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\frmStatus.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - How-To ListBox and ComboBox\obj\Debug\How-To ListBox.csproj.GenerateResource.Cache

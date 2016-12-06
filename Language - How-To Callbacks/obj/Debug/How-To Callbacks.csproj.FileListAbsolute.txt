@@ -1,0 +1,16 @@
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\bin\Debug\How-To Callbacks.exe
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\bin\Debug\How-To Callbacks.pdb
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\frmAbout.resources
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.csproj.GenerateResource.Cache
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.exe
+S:\Documents\Sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.exe
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\bin\Debug\How-To Callbacks.exe
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\bin\Debug\How-To Callbacks.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Language - How-To Callbacks\obj\Debug\How-To Callbacks.csproj.GenerateResource.Cache

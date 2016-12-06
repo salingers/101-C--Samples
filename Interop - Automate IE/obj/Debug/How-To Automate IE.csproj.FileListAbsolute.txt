@@ -1,0 +1,42 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\Interop.SHDocVw.dll
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\AxInterop.SHDocVw.dll
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.csproj.ResolveComReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\bin\Debug\How-To Automate IE.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\bin\Debug\How-To Automate IE.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\bin\Debug\Interop.SHDocVw.dll
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\bin\Debug\AxInterop.SHDocVw.dll
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\frmStatus.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.csproj.GenerateResource.Cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\bin\Debug\How-To Automate IE.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\bin\Debug\How-To Automate IE.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\bin\Debug\Interop.SHDocVw.dll
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\bin\Debug\AxInterop.SHDocVw.dll
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\Interop.SHDocVw.dll
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\AxInterop.SHDocVw.dll
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.csproj.ResolveComReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\frmStatus.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\Interop.SHDocVw.dll
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.csproj.ResolveComReference.cache
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\bin\Debug\How-To Automate IE.exe
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\bin\Debug\How-To Automate IE.pdb
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\bin\Debug\Interop.SHDocVw.dll
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\frmAbout.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\frmMain.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\frmStatus.resources
+C:\Users\167174\Google 雲端硬碟\Documents\微軟認證\101 C# Samples\Interop - Automate IE\obj\Debug\How-To Automate IE.csproj.GenerateResource.Cache

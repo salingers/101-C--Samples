@@ -1,0 +1,8 @@
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\obj\Debug\How-To Drag and Drop.exe
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\obj\Debug\How-To Drag and Drop.pdb
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\bin\Debug\How-To Drag and Drop.exe
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\bin\Debug\How-To Drag and Drop.pdb
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\obj\Debug\How-To Drag and Drop.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\obj\Debug\frmAbout.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Windows Forms - How-To Use Drag and Drop\obj\Debug\How-To Drag and Drop.csproj.GenerateResource.Cache

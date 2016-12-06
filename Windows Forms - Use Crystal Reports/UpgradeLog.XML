@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Crystal Reports Print Preview">
+</Property><Property Name="方案檔" Value="G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\How-To Crystal Reports Print Preview.sln">
+</Property><Property Name="使用者選項檔" Value="G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\How-To Crystal Reports Print Preview.suo">
+</Property><Property Name="Date" Value="2011年6月20日">
+</Property><Property Name="Time" Value="下午 18:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Crystal Reports Print Preview.sln" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\How-To Crystal Reports Print Preview.sln">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Crystal Reports Print Preview.suo" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\How-To Crystal Reports Print Preview.suo">
+</Event><Event ErrorLevel="4" Project="How-To Crystal Reports Print Preview" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="警告: 此專案需要 Visual Studio 中已不再採用的 Crystal Reports。請按一下這裡取得詳細資訊。">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="How-To Crystal Reports Print Preview.csproj" Description="專案檔已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\How-To Crystal Reports Print Preview.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="How-To Crystal Reports Print Preview.csproj.user" Description="專案使用者檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\How-To Crystal Reports Print Preview.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="AllCustomersOrders.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\AllCustomersOrders.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="AssemblyInfo.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="CustomerOrders.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\CustomerOrders.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="frmAbout.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="frmMain.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="frmStatus.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\frmStatus.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="TenMostExpensiveProducts.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\TenMostExpensiveProducts.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="Top5ProductsSold.cs" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\Top5ProductsSold.cs">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="ReadMe.htm" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="AllCustomersOrders.rpt" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\AllCustomersOrders.rpt">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="CustomerOrders.resx" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\CustomerOrders.resx">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="CustomerOrders.rpt" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\CustomerOrders.rpt">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="frmAbout.resx" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="frmMain.resx" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="frmStatus.resx" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\frmStatus.resx">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="TenMostExpensiveProducts.rpt" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\TenMostExpensiveProducts.rpt">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="Top5ProductsSold.rpt" Description="檔案已成功備份為 G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Use Crystal Reports\Backup\Top5ProductsSold.rpt">
+</Event><Event ErrorLevel="1" Project="How-To Crystal Reports Print Preview" Source="How-To Crystal Reports Print Preview.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="How-To Crystal Reports Print Preview.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Crystal Reports Print Preview" Source="How-To Crystal Reports Print Preview.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Crystal Reports Print Preview.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Crystal Reports Print Preview.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Crystal Reports Print Preview" Source="How-To Crystal Reports Print Preview.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

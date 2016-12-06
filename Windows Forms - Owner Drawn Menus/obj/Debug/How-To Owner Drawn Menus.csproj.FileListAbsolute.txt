@@ -1,0 +1,21 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\How-To Owner Drawn Menus.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\How-To Owner Drawn Menus.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\bin\Debug\How-To Owner Drawn Menus.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\bin\Debug\How-To Owner Drawn Menus.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmIconModMenu.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmTextModMenu.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\IconMenuItem.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\How-To Owner Drawn Menus.csproj.GenerateResource.Cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\How-To Owner Drawn Menus.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\How-To Owner Drawn Menus.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\bin\Debug\How-To Owner Drawn Menus.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\bin\Debug\How-To Owner Drawn Menus.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmIconModMenu.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\frmTextModMenu.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\IconMenuItem.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms - Owner Drawn Menus\obj\Debug\How-To Owner Drawn Menus.csproj.GenerateResource.Cache

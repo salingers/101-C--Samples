@@ -1,0 +1,14 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\bin\How-To Validating TextBoxes.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\bin\How-To Validating TextBoxes.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\EMailTextBox.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\frmAbout.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\IPAddressTextBox.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\PhoneTextBox.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\RegExTextBox.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\SsnTextBox.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\How-To Validating TextBoxes.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms -  How-To Validating Textboxes\obj\Debug\How-To Validating TextBoxes.pdb

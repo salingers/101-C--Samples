@@ -1,0 +1,7 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Work with XML\obj\Debug\How-To Work with XML.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Work with XML\obj\Debug\How-To Work with XML.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Work with XML\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Work with XML\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Work with XML\obj\Debug\InputDialog.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Work with XML\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Work with XML\obj\Debug\ResGen.write.1.tlog

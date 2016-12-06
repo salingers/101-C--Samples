@@ -1,0 +1,7 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\obj\Debug\How-To Reading and Writing with a Text File.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\NET Framework - Reading and Writing with a Text File\obj\Debug\How-To Reading and Writing with a Text File.pdb
+S:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Reading and Writing with a Text File\obj\Debug\How-To Reading and Writing with a Text File.exe
+S:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Reading and Writing with a Text File\obj\Debug\How-To Reading and Writing with a Text File.pdb
+S:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Reading and Writing with a Text File\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Reading and Writing with a Text File\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Library\101 C# Samples\NET Framework - Reading and Writing with a Text File\obj\Debug\How-To Reading and Writing with a Text File.csproj.GenerateResource.Cache

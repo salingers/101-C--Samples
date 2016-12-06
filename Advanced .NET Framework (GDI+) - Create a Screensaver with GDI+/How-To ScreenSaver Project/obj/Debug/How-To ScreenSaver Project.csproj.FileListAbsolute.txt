@@ -1,0 +1,9 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\bin\Debug\C#_NET How-To ScreenSaver.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\bin\Debug\C#_NET How-To ScreenSaver.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\obj\Debug\frmOptions.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\obj\Debug\frmSceenSaver.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\obj\Debug\C#_NET How-To ScreenSaver.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\obj\Debug\C#_NET How-To ScreenSaver.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\obj\Debug\GenerateResource-ResGen.read.1.tlog
+S:\My Library\Visual Studio Samples\101 C# Samples\Advanced .NET Framework (GDI+) - Create a Screensaver with GDI+\How-To ScreenSaver Project\obj\Debug\GenerateResource-ResGen.write.1.tlog

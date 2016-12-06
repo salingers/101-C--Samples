@@ -1,0 +1,15 @@
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\bin\Debug\How-To Create a Windows System Tray Program.exe
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\bin\Debug\How-To Create a Windows System Tray Program.pdb
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\frmAbout.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.csproj.GenerateResource.Cache
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.exe
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Windows Forms -  How-To System Tray Icon\bin\Debug\How-To Create a Windows System Tray Program.exe
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Windows Forms -  How-To System Tray Icon\bin\Debug\How-To Create a Windows System Tray Program.pdb
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.csprojResolveAssemblyReference.cache
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\frmMain.resources
+C:\Users\和勳\OneDrive\文件\sample\101 C# Samples\Windows Forms -  How-To System Tray Icon\obj\Debug\How-To Create a Windows System Tray Program.csproj.GenerateResource.Cache

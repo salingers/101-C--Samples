@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How-To Build Web Services (Client)", "How-To Build Web Services (Client).csproj", "{7A89997F-63F1-4B79-B1A9-6A7875B3BB68}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E8542D2F-60A4-4B94-8E8C-4B93256ADE9A} = {E8542D2F-60A4-4B94-8E8C-4B93256ADE9A}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HowToBuildWebServices", "http://localhost/HowToBuildWebServices/HowToBuildWebServices.csproj", "{E8542D2F-60A4-4B94-8E8C-4B93256ADE9A}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HowToWebServiceClient", "http://localhost/HowToWebServiceClient/HowToWebServiceClient.csproj", "{D90418D6-DC9B-4604-BBE1-9BB161F55AE4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E8542D2F-60A4-4B94-8E8C-4B93256ADE9A} = {E8542D2F-60A4-4B94-8E8C-4B93256ADE9A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A89997F-63F1-4B79-B1A9-6A7875B3BB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A89997F-63F1-4B79-B1A9-6A7875B3BB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A89997F-63F1-4B79-B1A9-6A7875B3BB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A89997F-63F1-4B79-B1A9-6A7875B3BB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8542D2F-60A4-4B94-8E8C-4B93256ADE9A}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{E8542D2F-60A4-4B94-8E8C-4B93256ADE9A}.Release|Any CPU.ActiveCfg = Release|.NET
+		{D90418D6-DC9B-4604-BBE1-9BB161F55AE4}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{D90418D6-DC9B-4604-BBE1-9BB161F55AE4}.Release|Any CPU.ActiveCfg = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

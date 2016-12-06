@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XMLDocumentationTool">
+</Property><Property Name="方案檔" Value="F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\XMLDocumentationTool.sln">
+</Property><Property Name="Date" Value="2011年6月14日">
+</Property><Property Name="Time" Value="下午 17:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XMLDocumentationTool.sln" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\XMLDocumentationTool.sln">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="XMLDocumentationTool.csproj" Description="專案檔已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\XMLDocumentationTool.csproj">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="XMLDocumentationTool.csproj.user" Description="專案使用者檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\XMLDocumentationTool.csproj.user">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="About.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\About.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="AssemblyInfo.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="AssemblyTreeView.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\AssemblyTreeView.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="DescriptoControls.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\DescriptoControls.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="Descriptors.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\Descriptors.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="ErrorWindow.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\ErrorWindow.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="FindDialog.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\FindDialog.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="ImageIndexData.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\ImageIndexData.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="MainDoc.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\MainDoc.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="MainWindow.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\MainWindow.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="MemberNode.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\MemberNode.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="NodeWindow.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\NodeWindow.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="OpenFiles.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\OpenFiles.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="Utils.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\Utils.cs">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="VersionInfo.cs" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\VersionInfo.cs">
+</Event><Event ErrorLevel="2" Project="XMLDocumentationTool" Source="bin\XML Documentation Tool Help.html" Description="無法將檔案備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\bin\XML Documentation Tool Help.html">
+</Event><Event ErrorLevel="2" Project="XMLDocumentationTool" Source="bin\XML Documentation Tool.exe.manifest" Description="無法將檔案備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\bin\XML Documentation Tool.exe.manifest">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="ReadMe.htm" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="About.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\About.resx">
+</Event><Event ErrorLevel="2" Project="XMLDocumentationTool" Source="AssemblyTreeView.resx" Description="無法將檔案備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\AssemblyTreeView.resx">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="DescriptoControls.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\DescriptoControls.resx">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="ErrorWindow.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\ErrorWindow.resx">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="FindDialog.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\FindDialog.resx">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="MainWindow.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\MainWindow.resx">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="NodeWindow.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\NodeWindow.resx">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="OpenFiles.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\OpenFiles.resx">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="Resources\imagestrip.bmp" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\Resources\imagestrip.bmp">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="VersionInfo.resx" Description="檔案已成功備份為 F:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - How-To XML Comments\Backup\VersionInfo.resx">
+</Event><Event ErrorLevel="1" Project="XMLDocumentationTool" Source="XMLDocumentationTool.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="XMLDocumentationTool.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="XMLDocumentationTool" Source="XMLDocumentationTool.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XMLDocumentationTool.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="XMLDocumentationTool.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XMLDocumentationTool" Source="XMLDocumentationTool.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Automate IE">
+</Property><Property Name="方案檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\How-To Automate IE.sln">
+</Property><Property Name="Date" Value="2008年11月20日">
+</Property><Property Name="Time" Value="下午 16:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Automate IE.sln" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\How-To Automate IE.sln">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="How-To Automate IE.csproj" Description="專案檔已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\How-To Automate IE.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="How-To Automate IE.csproj.user" Description="專案使用者檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\How-To Automate IE.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="AssemblyInfo.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="frmAbout.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="frmMain.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="frmStatus.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\frmStatus.cs">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="ReadMe.htm" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="frmAbout.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="frmMain.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="frmStatus.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Interop - Automate IE\Backup\frmStatus.resx">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="How-To Automate IE.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Automate IE" Source="How-To Automate IE.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Automate IE.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Automate IE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Automate IE" Source="How-To Automate IE.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

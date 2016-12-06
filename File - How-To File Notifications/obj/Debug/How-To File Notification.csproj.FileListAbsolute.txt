@@ -1,0 +1,17 @@
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\bin\Debug\How-To File Notification.exe
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\bin\Debug\How-To File Notification.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\obj\Debug\frmAbout.resources
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\obj\Debug\How-To File Notification.exe
+G:\My Library\Visual Studio Library\101 C# Samples\File - How-To File Notifications\obj\Debug\How-To File Notification.pdb
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\obj\Debug\How-To File Notification.exe
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\obj\Debug\How-To File Notification.pdb
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\bin\Debug\How-To File Notification.exe
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\bin\Debug\How-To File Notification.pdb
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\obj\Debug\How-To File Notification.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\obj\Debug\frmAbout.resources
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\File - How-To File Notifications\obj\Debug\How-To File Notification.csproj.GenerateResource.Cache

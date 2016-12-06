@@ -1,0 +1,8 @@
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\frmAbout.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\frmStatus.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\ResGen.read.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Web Services - Consume a Web Service\obj\Debug\ResGen.write.6.tlog

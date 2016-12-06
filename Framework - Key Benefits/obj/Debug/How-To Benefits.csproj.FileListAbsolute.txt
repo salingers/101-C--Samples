@@ -1,0 +1,10 @@
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\bin\Debug\How-To Contrast with VB6.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\bin\Debug\How-To Contrast with VB6.pdb
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\ResolveAssemblyReference.cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\frmAbout.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\frmControls.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\frmGraphics.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\frmMain.resources
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\How-To Benefits.csproj.GenerateResource.Cache
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\How-To Contrast with VB6.exe
+S:\My Library\Visual Studio Samples\101 C# Samples\Framework - Key Benefits\obj\Debug\How-To Contrast with VB6.pdb

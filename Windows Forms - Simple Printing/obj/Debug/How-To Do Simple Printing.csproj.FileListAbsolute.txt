@@ -1,0 +1,10 @@
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\ResolveAssemblyReference.cache
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\frmMain.resources
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\ResGen.read.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\ResGen.read.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\ResGen.write.1.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\ResGen.write.6.tlog
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\bin\Debug\How-To Do Simple Printing.exe
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\bin\Debug\How-To Do Simple Printing.pdb
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\How-To Do Simple Printing.exe
+G:\My Library\Visual Studio Library\101 C# Samples\Windows Forms - Simple Printing\obj\Debug\How-To Do Simple Printing.pdb

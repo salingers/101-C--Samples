@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Data Entry Form">
+</Property><Property Name="方案檔" Value="S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\How-To Data Entry Form.sln">
+</Property><Property Name="Date" Value="2008年10月22日">
+</Property><Property Name="Time" Value="上午 11:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Data Entry Form.sln" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\How-To Data Entry Form.sln">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="How-To Create a Data Entry Form.csproj" Description="專案檔已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\How-To Create a Data Entry Form.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="How-To Create a Data Entry Form.csproj.user" Description="專案使用者檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\How-To Create a Data Entry Form.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="AssemblyInfo.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="frmAbout.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="frmMain.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="frmStatus.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\frmStatus.cs">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="ListItem.cs" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\ListItem.cs">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="ReadMe.htm" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="frmAbout.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="frmMain.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="frmStatus.resx" Description="檔案已成功備份為 S:\My Library\Visual Studio Samples\101 C# Samples\Data Access - Data Entry Form\Backup\frmStatus.resx">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="How-To Create a Data Entry Form.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="How-To Create a Data Entry Form" Source="How-To Create a Data Entry Form.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Data Entry Form.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Data Entry Form.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Create a Data Entry Form" Source="How-To Create a Data Entry Form.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

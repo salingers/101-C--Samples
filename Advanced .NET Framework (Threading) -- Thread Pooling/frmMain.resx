@@ -1,0 +1,2326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MainTabControl.AccessibleDescription" xml:space="preserve">
+    <value>Main Tab Control</value>
+  </data>
+  <data name="MainTabControl.AccessibleName" xml:space="preserve">
+    <value>Main Tab Control</value>
+  </data>
+  <data name="FunctionTabPage.AccessibleDescription" xml:space="preserve">
+    <value>Function Tab Page</value>
+  </data>
+  <data name="FunctionTabPage.AccessibleName" xml:space="preserve">
+    <value>Function Tab Page</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lblInstructions.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lblInstructions.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInstructions.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 18</value>
+  </data>
+  <data name="lblInstructions.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 93</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lblInstructions.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="lblInstructions.Text" xml:space="preserve">
+    <value>This compares running three processes in sequential order, in three discrete threads, and using the ThreadPool function QueueUserWorkItem to managed threads according to CPU availability.  To fully see the differences, be sure to run each multiple times in different orders, with high CPU intense processes and without, noting the thread numbers each process uses and time each takes.  </value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.Name" xml:space="preserve">
+    <value>lblInstructions</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 360</value>
+  </data>
+  <data name="Label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 18</value>
+  </data>
+  <data name="Label8.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="Label8.Text" xml:space="preserve">
+    <value>Time elapsed (in seconds):</value>
+  </data>
+  <data name="&gt;&gt;Label8.Name" xml:space="preserve">
+    <value>Label8</value>
+  </data>
+  <data name="&gt;&gt;Label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label8.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;Label8.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="chkHighIntensity.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkHighIntensity.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 323</value>
+  </data>
+  <data name="chkHighIntensity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>16, 19</value>
+  </data>
+  <data name="chkHighIntensity.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chkHighIntensity.Text" xml:space="preserve">
+    <value>CheckBox1</value>
+  </data>
+  <data name="&gt;&gt;chkHighIntensity.Name" xml:space="preserve">
+    <value>chkHighIntensity</value>
+  </data>
+  <data name="&gt;&gt;chkHighIntensity.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkHighIntensity.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;chkHighIntensity.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>32, 323</value>
+  </data>
+  <data name="Label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 19</value>
+  </data>
+  <data name="Label6.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="Label6.Text" xml:space="preserve">
+    <value>High intensity CPU usage</value>
+  </data>
+  <data name="&gt;&gt;Label6.Name" xml:space="preserve">
+    <value>Label6</value>
+  </data>
+  <data name="&gt;&gt;Label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label6.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;Label6.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnThreadPool.AccessibleDescription" xml:space="preserve">
+    <value>Thread pool  Button</value>
+  </data>
+  <data name="btnThreadPool.AccessibleName" xml:space="preserve">
+    <value>Thread pool Button</value>
+  </data>
+  <data name="btnThreadPool.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnThreadPool.Location" type="System.Drawing.Point, System.Drawing">
+    <value>320, 415</value>
+  </data>
+  <data name="btnThreadPool.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 28</value>
+  </data>
+  <data name="btnThreadPool.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btnThreadPool.Text" xml:space="preserve">
+    <value>Thread &amp;Pool</value>
+  </data>
+  <data name="&gt;&gt;btnThreadPool.Name" xml:space="preserve">
+    <value>btnThreadPool</value>
+  </data>
+  <data name="&gt;&gt;btnThreadPool.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnThreadPool.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnThreadPool.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnThreaded.AccessibleDescription" xml:space="preserve">
+    <value>Threaded Button</value>
+  </data>
+  <data name="btnThreaded.AccessibleName" xml:space="preserve">
+    <value>Threaded Button</value>
+  </data>
+  <data name="btnThreaded.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnThreaded.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 415</value>
+  </data>
+  <data name="btnThreaded.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 28</value>
+  </data>
+  <data name="btnThreaded.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btnThreaded.Text" xml:space="preserve">
+    <value>&amp;Threaded</value>
+  </data>
+  <data name="&gt;&gt;btnThreaded.Name" xml:space="preserve">
+    <value>btnThreaded</value>
+  </data>
+  <data name="&gt;&gt;btnThreaded.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnThreaded.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnThreaded.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lblSecondsElapsed.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblSecondsElapsed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>176, 360</value>
+  </data>
+  <data name="lblSecondsElapsed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 18</value>
+  </data>
+  <data name="lblSecondsElapsed.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblSecondsElapsed.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblSecondsElapsed.Name" xml:space="preserve">
+    <value>lblSecondsElapsed</value>
+  </data>
+  <data name="&gt;&gt;lblSecondsElapsed.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblSecondsElapsed.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;lblSecondsElapsed.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Process3GroupBox.AccessibleDescription" xml:space="preserve">
+    <value>Process3 Group Box</value>
+  </data>
+  <data name="Process3GroupBox.AccessibleName" xml:space="preserve">
+    <value>Process3 Group Box</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.AccessibleDescription" xml:space="preserve">
+    <value>Is Process1 a pool thread</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.AccessibleName" xml:space="preserve">
+    <value>Is Process1 a pool thread</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 104</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lblProcess3IsPoolThread.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3IsPoolThread.Name" xml:space="preserve">
+    <value>lblProcess3IsPoolThread</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3IsPoolThread.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3IsPoolThread.Parent" xml:space="preserve">
+    <value>Process3GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3IsPoolThread.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 111</value>
+  </data>
+  <data name="Label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 18</value>
+  </data>
+  <data name="Label7.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="Label7.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label7.Name" xml:space="preserve">
+    <value>Label7</value>
+  </data>
+  <data name="&gt;&gt;Label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label7.Parent" xml:space="preserve">
+    <value>Process3GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblProcess3ThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>Process3 Thread Number</value>
+  </data>
+  <data name="lblProcess3ThreadNum.AccessibleName" xml:space="preserve">
+    <value>Process3 Thread Number</value>
+  </data>
+  <data name="lblProcess3ThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblProcess3ThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess3ThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 67</value>
+  </data>
+  <data name="lblProcess3ThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblProcess3ThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblProcess3ThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3ThreadNum.Name" xml:space="preserve">
+    <value>lblProcess3ThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3ThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3ThreadNum.Parent" xml:space="preserve">
+    <value>Process3GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3ThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 74</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>Process3GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblProcess3Active.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblProcess3Active.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess3Active.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 37</value>
+  </data>
+  <data name="lblProcess3Active.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="lblProcess3Active.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblProcess3Active.Text" xml:space="preserve">
+    <value>Inactive</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3Active.Name" xml:space="preserve">
+    <value>lblProcess3Active</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3Active.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3Active.Parent" xml:space="preserve">
+    <value>Process3GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess3Active.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Process3GroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>376, 120</value>
+  </data>
+  <data name="Process3GroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 185</value>
+  </data>
+  <data name="Process3GroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Process3GroupBox.Text" xml:space="preserve">
+    <value>Process3</value>
+  </data>
+  <data name="&gt;&gt;Process3GroupBox.Name" xml:space="preserve">
+    <value>Process3GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Process3GroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Process3GroupBox.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;Process3GroupBox.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="Process2GroupBox.AccessibleDescription" xml:space="preserve">
+    <value>Process2 Group Box</value>
+  </data>
+  <data name="Process2GroupBox.AccessibleName" xml:space="preserve">
+    <value>Process2 Group Box</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.AccessibleDescription" xml:space="preserve">
+    <value>Is Process1 a pool thread</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.AccessibleName" xml:space="preserve">
+    <value>Is Process1 a pool thread</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 104</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lblProcess2IsPoolThread.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2IsPoolThread.Name" xml:space="preserve">
+    <value>lblProcess2IsPoolThread</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2IsPoolThread.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2IsPoolThread.Parent" xml:space="preserve">
+    <value>Process2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2IsPoolThread.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 111</value>
+  </data>
+  <data name="Label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 18</value>
+  </data>
+  <data name="Label5.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="Label5.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label5.Name" xml:space="preserve">
+    <value>Label5</value>
+  </data>
+  <data name="&gt;&gt;Label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label5.Parent" xml:space="preserve">
+    <value>Process2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label5.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblProcess2ThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>Process2 Thread Number</value>
+  </data>
+  <data name="lblProcess2ThreadNum.AccessibleName" xml:space="preserve">
+    <value>Process2 Thread Number</value>
+  </data>
+  <data name="lblProcess2ThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblProcess2ThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess2ThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 67</value>
+  </data>
+  <data name="lblProcess2ThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblProcess2ThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lblProcess2ThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2ThreadNum.Name" xml:space="preserve">
+    <value>lblProcess2ThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2ThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2ThreadNum.Parent" xml:space="preserve">
+    <value>Process2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2ThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 74</value>
+  </data>
+  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
+    <value>Label1</value>
+  </data>
+  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+    <value>Process2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblProcess2Active.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblProcess2Active.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess2Active.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 37</value>
+  </data>
+  <data name="lblProcess2Active.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="lblProcess2Active.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblProcess2Active.Text" xml:space="preserve">
+    <value>Inactive</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2Active.Name" xml:space="preserve">
+    <value>lblProcess2Active</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2Active.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2Active.Parent" xml:space="preserve">
+    <value>Process2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess2Active.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Process2GroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 120</value>
+  </data>
+  <data name="Process2GroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 185</value>
+  </data>
+  <data name="Process2GroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Process2GroupBox.Text" xml:space="preserve">
+    <value>Process2</value>
+  </data>
+  <data name="&gt;&gt;Process2GroupBox.Name" xml:space="preserve">
+    <value>Process2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Process2GroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Process2GroupBox.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;Process2GroupBox.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnNonthreaded.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnNonthreaded.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 415</value>
+  </data>
+  <data name="btnNonthreaded.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 28</value>
+  </data>
+  <data name="btnNonthreaded.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnNonthreaded.Text" xml:space="preserve">
+    <value>&amp;Non-threaded</value>
+  </data>
+  <data name="&gt;&gt;btnNonthreaded.Name" xml:space="preserve">
+    <value>btnNonthreaded</value>
+  </data>
+  <data name="&gt;&gt;btnNonthreaded.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNonthreaded.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnNonthreaded.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="Process1GroupBox.AccessibleDescription" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="Process1GroupBox.AccessibleName" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.AccessibleDescription" xml:space="preserve">
+    <value>Is Process1 a pool thread</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.AccessibleName" xml:space="preserve">
+    <value>Is Process1 a pool thread</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 104</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblProcess1IsPoolThread.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1IsPoolThread.Name" xml:space="preserve">
+    <value>lblProcess1IsPoolThread</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1IsPoolThread.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1IsPoolThread.Parent" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1IsPoolThread.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 111</value>
+  </data>
+  <data name="Label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 18</value>
+  </data>
+  <data name="Label3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label3.Name" xml:space="preserve">
+    <value>Label3</value>
+  </data>
+  <data name="&gt;&gt;Label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label3.Parent" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblProcess1ThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>Process1 Thread Number</value>
+  </data>
+  <data name="lblProcess1ThreadNum.AccessibleName" xml:space="preserve">
+    <value>Process1 Thread Number</value>
+  </data>
+  <data name="lblProcess1ThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblProcess1ThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess1ThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 67</value>
+  </data>
+  <data name="lblProcess1ThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblProcess1ThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblProcess1ThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1ThreadNum.Name" xml:space="preserve">
+    <value>lblProcess1ThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1ThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1ThreadNum.Parent" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1ThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblThreadNumber.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblThreadNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 74</value>
+  </data>
+  <data name="lblThreadNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="lblThreadNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblThreadNumber.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;lblThreadNumber.Name" xml:space="preserve">
+    <value>lblThreadNumber</value>
+  </data>
+  <data name="&gt;&gt;lblThreadNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblThreadNumber.Parent" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblThreadNumber.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblProcess1Active.AccessibleDescription" xml:space="preserve">
+    <value>Process1 Active Label</value>
+  </data>
+  <data name="lblProcess1Active.AccessibleName" xml:space="preserve">
+    <value>Process1 Active label</value>
+  </data>
+  <data name="lblProcess1Active.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblProcess1Active.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblProcess1Active.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 37</value>
+  </data>
+  <data name="lblProcess1Active.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="lblProcess1Active.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblProcess1Active.Text" xml:space="preserve">
+    <value>Inactive</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1Active.Name" xml:space="preserve">
+    <value>lblProcess1Active</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1Active.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1Active.Parent" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblProcess1Active.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Process1GroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 120</value>
+  </data>
+  <data name="Process1GroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 185</value>
+  </data>
+  <data name="Process1GroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="Process1GroupBox.Text" xml:space="preserve">
+    <value>Process1</value>
+  </data>
+  <data name="&gt;&gt;Process1GroupBox.Name" xml:space="preserve">
+    <value>Process1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Process1GroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Process1GroupBox.Parent" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;Process1GroupBox.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="FunctionTabPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="FunctionTabPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>552, 463</value>
+  </data>
+  <data name="FunctionTabPage.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="FunctionTabPage.Text" xml:space="preserve">
+    <value>Queued Functions</value>
+  </data>
+  <data name="&gt;&gt;FunctionTabPage.Name" xml:space="preserve">
+    <value>FunctionTabPage</value>
+  </data>
+  <data name="&gt;&gt;FunctionTabPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;FunctionTabPage.Parent" xml:space="preserve">
+    <value>MainTabControl</value>
+  </data>
+  <data name="&gt;&gt;FunctionTabPage.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblInstructions2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblInstructions2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInstructions2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 28</value>
+  </data>
+  <data name="lblInstructions2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 74</value>
+  </data>
+  <data name="lblInstructions2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblInstructions2.Text" xml:space="preserve">
+    <value>This shows how how to use the Threading.Timer class to set up timed events (even on different time intervals as in the example.)  Since the timers utilize the ThreadPool it is possible (though not always the case)  for the events to use the same thread to process both events, instead of having two fully dedicated threads. </value>
+  </data>
+  <data name="&gt;&gt;lblInstructions2.Name" xml:space="preserve">
+    <value>lblInstructions2</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions2.Parent" xml:space="preserve">
+    <value>TimersTabPage</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnStartStop.AccessibleDescription" xml:space="preserve">
+    <value>Start/Stop  Button</value>
+  </data>
+  <data name="btnStartStop.AccessibleName" xml:space="preserve">
+    <value>Start/Stop Button</value>
+  </data>
+  <data name="btnStartStop.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnStartStop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>216, 369</value>
+  </data>
+  <data name="btnStartStop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 37</value>
+  </data>
+  <data name="btnStartStop.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnStartStop.Text" xml:space="preserve">
+    <value>&amp;Start</value>
+  </data>
+  <data name="&gt;&gt;btnStartStop.Name" xml:space="preserve">
+    <value>btnStartStop</value>
+  </data>
+  <data name="&gt;&gt;btnStartStop.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnStartStop.Parent" xml:space="preserve">
+    <value>TimersTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnStartStop.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Timer2GroupBox.AccessibleDescription" xml:space="preserve">
+    <value>Timer2 Groupbox</value>
+  </data>
+  <data name="Timer2GroupBox.AccessibleName" xml:space="preserve">
+    <value>Timer2 Groupbox</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.AccessibleDescription" xml:space="preserve">
+    <value>Is Timer2 a pool thread</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.AccessibleName" xml:space="preserve">
+    <value>Is Timer2 a pool thread</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 129</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblTimer2IsThreadPool.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2IsThreadPool.Name" xml:space="preserve">
+    <value>lblTimer2IsThreadPool</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2IsThreadPool.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2IsThreadPool.Parent" xml:space="preserve">
+    <value>Timer2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2IsThreadPool.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 138</value>
+  </data>
+  <data name="Label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 19</value>
+  </data>
+  <data name="Label14.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label14.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label14.Name" xml:space="preserve">
+    <value>Label14</value>
+  </data>
+  <data name="&gt;&gt;Label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label14.Parent" xml:space="preserve">
+    <value>Timer2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label14.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblTimer2ThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>Timer2 Thread Number</value>
+  </data>
+  <data name="lblTimer2ThreadNum.AccessibleName" xml:space="preserve">
+    <value>Timer2 Thread Number</value>
+  </data>
+  <data name="lblTimer2ThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblTimer2ThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTimer2ThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 92</value>
+  </data>
+  <data name="lblTimer2ThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblTimer2ThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblTimer2ThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2ThreadNum.Name" xml:space="preserve">
+    <value>lblTimer2ThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2ThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2ThreadNum.Parent" xml:space="preserve">
+    <value>Timer2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2ThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 102</value>
+  </data>
+  <data name="Label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="Label16.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Label16.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;Label16.Name" xml:space="preserve">
+    <value>Label16</value>
+  </data>
+  <data name="&gt;&gt;Label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label16.Parent" xml:space="preserve">
+    <value>Timer2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label16.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblTimer2Output.AccessibleDescription" xml:space="preserve">
+    <value>Timer2 Output Label</value>
+  </data>
+  <data name="lblTimer2Output.AccessibleName" xml:space="preserve">
+    <value>Timer2 Output Label</value>
+  </data>
+  <data name="lblTimer2Output.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblTimer2Output.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTimer2Output.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 37</value>
+  </data>
+  <data name="lblTimer2Output.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 18</value>
+  </data>
+  <data name="lblTimer2Output.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2Output.Name" xml:space="preserve">
+    <value>lblTimer2Output</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2Output.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2Output.Parent" xml:space="preserve">
+    <value>Timer2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblTimer2Output.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Timer2GroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>272, 148</value>
+  </data>
+  <data name="Timer2GroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 184</value>
+  </data>
+  <data name="Timer2GroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Timer2GroupBox.Text" xml:space="preserve">
+    <value>Timer2</value>
+  </data>
+  <data name="&gt;&gt;Timer2GroupBox.Name" xml:space="preserve">
+    <value>Timer2GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Timer2GroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Timer2GroupBox.Parent" xml:space="preserve">
+    <value>TimersTabPage</value>
+  </data>
+  <data name="&gt;&gt;Timer2GroupBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Timer1GroupBox.AccessibleDescription" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="Timer1GroupBox.AccessibleName" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.AccessibleDescription" xml:space="preserve">
+    <value>Is Timer1 a pool thread</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.AccessibleName" xml:space="preserve">
+    <value>Is Timer1 a pool thread</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 129</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblTimer1IsThreadPool.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1IsThreadPool.Name" xml:space="preserve">
+    <value>lblTimer1IsThreadPool</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1IsThreadPool.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1IsThreadPool.Parent" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1IsThreadPool.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 138</value>
+  </data>
+  <data name="Label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 19</value>
+  </data>
+  <data name="Label9.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label9.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label9.Name" xml:space="preserve">
+    <value>Label9</value>
+  </data>
+  <data name="&gt;&gt;Label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label9.Parent" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label9.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblTimer1ThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>Process1 Thread Number</value>
+  </data>
+  <data name="lblTimer1ThreadNum.AccessibleName" xml:space="preserve">
+    <value>Process1 Thread Number</value>
+  </data>
+  <data name="lblTimer1ThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblTimer1ThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTimer1ThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 92</value>
+  </data>
+  <data name="lblTimer1ThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblTimer1ThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblTimer1ThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1ThreadNum.Name" xml:space="preserve">
+    <value>lblTimer1ThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1ThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1ThreadNum.Parent" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1ThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 102</value>
+  </data>
+  <data name="Label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="Label11.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Label11.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;Label11.Name" xml:space="preserve">
+    <value>Label11</value>
+  </data>
+  <data name="&gt;&gt;Label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label11.Parent" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label11.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblTimer1Output.AccessibleDescription" xml:space="preserve">
+    <value>Timer Output Label</value>
+  </data>
+  <data name="lblTimer1Output.AccessibleName" xml:space="preserve">
+    <value>Timer Output Label</value>
+  </data>
+  <data name="lblTimer1Output.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblTimer1Output.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblTimer1Output.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 37</value>
+  </data>
+  <data name="lblTimer1Output.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 18</value>
+  </data>
+  <data name="lblTimer1Output.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1Output.Name" xml:space="preserve">
+    <value>lblTimer1Output</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1Output.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1Output.Parent" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblTimer1Output.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Timer1GroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>88, 148</value>
+  </data>
+  <data name="Timer1GroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 184</value>
+  </data>
+  <data name="Timer1GroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Timer1GroupBox.Text" xml:space="preserve">
+    <value>Timer1</value>
+  </data>
+  <data name="&gt;&gt;Timer1GroupBox.Name" xml:space="preserve">
+    <value>Timer1GroupBox</value>
+  </data>
+  <data name="&gt;&gt;Timer1GroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Timer1GroupBox.Parent" xml:space="preserve">
+    <value>TimersTabPage</value>
+  </data>
+  <data name="&gt;&gt;Timer1GroupBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TimersTabPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="TimersTabPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>552, 463</value>
+  </data>
+  <data name="TimersTabPage.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="TimersTabPage.Text" xml:space="preserve">
+    <value>Timers</value>
+  </data>
+  <data name="&gt;&gt;TimersTabPage.Name" xml:space="preserve">
+    <value>TimersTabPage</value>
+  </data>
+  <data name="&gt;&gt;TimersTabPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TimersTabPage.Parent" xml:space="preserve">
+    <value>MainTabControl</value>
+  </data>
+  <data name="&gt;&gt;TimersTabPage.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblInstructions3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblInstructions3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInstructions3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 28</value>
+  </data>
+  <data name="lblInstructions3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>520, 64</value>
+  </data>
+  <data name="lblInstructions3.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblInstructions3.Text" xml:space="preserve">
+    <value>This demonstrates how to use ThreadPool.RegisterWaitForSingleObject and synchronization objects Mutex, ManualResetEvent, and AutoResetEvent, to trigger functions on separate threads, as opposed to having dedicated threads with blocking. </value>
+  </data>
+  <data name="&gt;&gt;lblInstructions3.Name" xml:space="preserve">
+    <value>lblInstructions3</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions3.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;lblInstructions3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnSetReleaseAll.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnSetReleaseAll.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSetReleaseAll.Location" type="System.Drawing.Point, System.Drawing">
+    <value>456, 342</value>
+  </data>
+  <data name="btnSetReleaseAll.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 64</value>
+  </data>
+  <data name="btnSetReleaseAll.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btnSetReleaseAll.Text" xml:space="preserve">
+    <value>Set/Release All</value>
+  </data>
+  <data name="&gt;&gt;btnSetReleaseAll.Name" xml:space="preserve">
+    <value>btnSetReleaseAll</value>
+  </data>
+  <data name="&gt;&gt;btnSetReleaseAll.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSetReleaseAll.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnSetReleaseAll.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnSetAutoEvent.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnSetAutoEvent.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSetAutoEvent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>288, 378</value>
+  </data>
+  <data name="btnSetAutoEvent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 28</value>
+  </data>
+  <data name="btnSetAutoEvent.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnSetAutoEvent.Text" xml:space="preserve">
+    <value>Set Auto Reset Event</value>
+  </data>
+  <data name="&gt;&gt;btnSetAutoEvent.Name" xml:space="preserve">
+    <value>btnSetAutoEvent</value>
+  </data>
+  <data name="&gt;&gt;btnSetAutoEvent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSetAutoEvent.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnSetAutoEvent.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnWaitForAutoEvent.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnWaitForAutoEvent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>288, 342</value>
+  </data>
+  <data name="btnWaitForAutoEvent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 27</value>
+  </data>
+  <data name="btnWaitForAutoEvent.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnWaitForAutoEvent.Text" xml:space="preserve">
+    <value>Wait for Auto Reset Event</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForAutoEvent.Name" xml:space="preserve">
+    <value>btnWaitForAutoEvent</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForAutoEvent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForAutoEvent.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForAutoEvent.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnSetManualEvent.AccessibleDescription" xml:space="preserve">
+    <value>Set ManualEvent Button</value>
+  </data>
+  <data name="btnSetManualEvent.AccessibleName" xml:space="preserve">
+    <value>Set ManualEvent Button</value>
+  </data>
+  <data name="btnSetManualEvent.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnSetManualEvent.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSetManualEvent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>144, 378</value>
+  </data>
+  <data name="btnSetManualEvent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 28</value>
+  </data>
+  <data name="btnSetManualEvent.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="btnSetManualEvent.Text" xml:space="preserve">
+    <value>Set Manual Event</value>
+  </data>
+  <data name="&gt;&gt;btnSetManualEvent.Name" xml:space="preserve">
+    <value>btnSetManualEvent</value>
+  </data>
+  <data name="&gt;&gt;btnSetManualEvent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSetManualEvent.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnSetManualEvent.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnWaitForManualEvent.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnWaitForManualEvent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>144, 342</value>
+  </data>
+  <data name="btnWaitForManualEvent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 27</value>
+  </data>
+  <data name="btnWaitForManualEvent.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btnWaitForManualEvent.Text" xml:space="preserve">
+    <value>Wait For Manual Event</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForManualEvent.Name" xml:space="preserve">
+    <value>btnWaitForManualEvent</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForManualEvent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForManualEvent.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForManualEvent.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnReleaseMutex.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnReleaseMutex.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnReleaseMutex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 378</value>
+  </data>
+  <data name="btnReleaseMutex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 28</value>
+  </data>
+  <data name="btnReleaseMutex.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btnReleaseMutex.Text" xml:space="preserve">
+    <value>Release Mutex</value>
+  </data>
+  <data name="&gt;&gt;btnReleaseMutex.Name" xml:space="preserve">
+    <value>btnReleaseMutex</value>
+  </data>
+  <data name="&gt;&gt;btnReleaseMutex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnReleaseMutex.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnReleaseMutex.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnWaitForMutex.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnWaitForMutex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 342</value>
+  </data>
+  <data name="btnWaitForMutex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 27</value>
+  </data>
+  <data name="btnWaitForMutex.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnWaitForMutex.Text" xml:space="preserve">
+    <value>Wait For Mutex</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForMutex.Name" xml:space="preserve">
+    <value>btnWaitForMutex</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForMutex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForMutex.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;btnWaitForMutex.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="AutoEventGroupBox.AccessibleDescription" xml:space="preserve">
+    <value>AutoEvent GroupBox</value>
+  </data>
+  <data name="AutoEventGroupBox.AccessibleName" xml:space="preserve">
+    <value>AutoEvent GroupBox</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.AccessibleDescription" xml:space="preserve">
+    <value>Is AutoEvent a pool thread</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.AccessibleName" xml:space="preserve">
+    <value>Is AutoEvent a pool thread</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 104</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblAutoEventIsPoolThread.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventIsPoolThread.Name" xml:space="preserve">
+    <value>lblAutoEventIsPoolThread</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventIsPoolThread.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventIsPoolThread.Parent" xml:space="preserve">
+    <value>AutoEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventIsPoolThread.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 111</value>
+  </data>
+  <data name="Label23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 18</value>
+  </data>
+  <data name="Label23.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label23.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label23.Name" xml:space="preserve">
+    <value>Label23</value>
+  </data>
+  <data name="&gt;&gt;Label23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label23.Parent" xml:space="preserve">
+    <value>AutoEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label23.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblAutoEventThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>AutoEvent Thread Number</value>
+  </data>
+  <data name="lblAutoEventThreadNum.AccessibleName" xml:space="preserve">
+    <value>AutoEvent  Thread Number</value>
+  </data>
+  <data name="lblAutoEventThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblAutoEventThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblAutoEventThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 67</value>
+  </data>
+  <data name="lblAutoEventThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblAutoEventThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblAutoEventThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventThreadNum.Name" xml:space="preserve">
+    <value>lblAutoEventThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventThreadNum.Parent" xml:space="preserve">
+    <value>AutoEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label25.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 74</value>
+  </data>
+  <data name="Label25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="Label25.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Label25.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;Label25.Name" xml:space="preserve">
+    <value>Label25</value>
+  </data>
+  <data name="&gt;&gt;Label25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label25.Parent" xml:space="preserve">
+    <value>AutoEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label25.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblAutoEventStatus.AccessibleDescription" xml:space="preserve">
+    <value>AutoEvent Status Label</value>
+  </data>
+  <data name="lblAutoEventStatus.AccessibleName" xml:space="preserve">
+    <value>AutoEvent Status label</value>
+  </data>
+  <data name="lblAutoEventStatus.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblAutoEventStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblAutoEventStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 37</value>
+  </data>
+  <data name="lblAutoEventStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="lblAutoEventStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblAutoEventStatus.Text" xml:space="preserve">
+    <value>Inactive</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventStatus.Name" xml:space="preserve">
+    <value>lblAutoEventStatus</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventStatus.Parent" xml:space="preserve">
+    <value>AutoEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblAutoEventStatus.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="AutoEventGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>376, 120</value>
+  </data>
+  <data name="AutoEventGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 185</value>
+  </data>
+  <data name="AutoEventGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="AutoEventGroupBox.Text" xml:space="preserve">
+    <value>Wait for Auto Event</value>
+  </data>
+  <data name="&gt;&gt;AutoEventGroupBox.Name" xml:space="preserve">
+    <value>AutoEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;AutoEventGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AutoEventGroupBox.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;AutoEventGroupBox.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="ManualEventGroupBox.AccessibleDescription" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="ManualEventGroupBox.AccessibleName" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.AccessibleDescription" xml:space="preserve">
+    <value>Is ManualEvent a pool thread</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.AccessibleName" xml:space="preserve">
+    <value>Is ManualEvent a pool thread</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 104</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblManualEventIsPoolThread.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventIsPoolThread.Name" xml:space="preserve">
+    <value>lblManualEventIsPoolThread</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventIsPoolThread.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventIsPoolThread.Parent" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventIsPoolThread.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 111</value>
+  </data>
+  <data name="Label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 18</value>
+  </data>
+  <data name="Label18.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label18.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label18.Name" xml:space="preserve">
+    <value>Label18</value>
+  </data>
+  <data name="&gt;&gt;Label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label18.Parent" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label18.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblManualEventThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>ManualEvent Thread Number</value>
+  </data>
+  <data name="lblManualEventThreadNum.AccessibleName" xml:space="preserve">
+    <value>ManualEvent Thread Number</value>
+  </data>
+  <data name="lblManualEventThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblManualEventThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblManualEventThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 67</value>
+  </data>
+  <data name="lblManualEventThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblManualEventThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblManualEventThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadNum.Name" xml:space="preserve">
+    <value>lblManualEventThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadNum.Parent" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 74</value>
+  </data>
+  <data name="Label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="Label20.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Label20.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;Label20.Name" xml:space="preserve">
+    <value>Label20</value>
+  </data>
+  <data name="&gt;&gt;Label20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label20.Parent" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label20.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblManualEventThreadStatus.AccessibleDescription" xml:space="preserve">
+    <value>Manual Event Thread Status Label</value>
+  </data>
+  <data name="lblManualEventThreadStatus.AccessibleName" xml:space="preserve">
+    <value>Manual Event Thread Status Label</value>
+  </data>
+  <data name="lblManualEventThreadStatus.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblManualEventThreadStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblManualEventThreadStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 37</value>
+  </data>
+  <data name="lblManualEventThreadStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="lblManualEventThreadStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblManualEventThreadStatus.Text" xml:space="preserve">
+    <value>Inactive</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadStatus.Name" xml:space="preserve">
+    <value>lblManualEventThreadStatus</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadStatus.Parent" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblManualEventThreadStatus.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ManualEventGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 120</value>
+  </data>
+  <data name="ManualEventGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 185</value>
+  </data>
+  <data name="ManualEventGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="ManualEventGroupBox.Text" xml:space="preserve">
+    <value>Wait for Manual Event</value>
+  </data>
+  <data name="&gt;&gt;ManualEventGroupBox.Name" xml:space="preserve">
+    <value>ManualEventGroupBox</value>
+  </data>
+  <data name="&gt;&gt;ManualEventGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ManualEventGroupBox.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;ManualEventGroupBox.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="MutexGroupBox.AccessibleDescription" xml:space="preserve">
+    <value>Mutex GroupBox</value>
+  </data>
+  <data name="MutexGroupBox.AccessibleName" xml:space="preserve">
+    <value>Mutex GroupBox</value>
+  </data>
+  <data name="lblMutexIsPoolThread.AccessibleDescription" xml:space="preserve">
+    <value>Is Mutex a pool thread</value>
+  </data>
+  <data name="lblMutexIsPoolThread.AccessibleName" xml:space="preserve">
+    <value>Is Mutex a pool thread</value>
+  </data>
+  <data name="lblMutexIsPoolThread.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblMutexIsPoolThread.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblMutexIsPoolThread.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 104</value>
+  </data>
+  <data name="lblMutexIsPoolThread.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblMutexIsPoolThread.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblMutexIsPoolThread.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblMutexIsPoolThread.Name" xml:space="preserve">
+    <value>lblMutexIsPoolThread</value>
+  </data>
+  <data name="&gt;&gt;lblMutexIsPoolThread.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblMutexIsPoolThread.Parent" xml:space="preserve">
+    <value>MutexGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblMutexIsPoolThread.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 111</value>
+  </data>
+  <data name="Label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 18</value>
+  </data>
+  <data name="Label10.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="Label10.Text" xml:space="preserve">
+    <value>Belongs To Pool?</value>
+  </data>
+  <data name="&gt;&gt;Label10.Name" xml:space="preserve">
+    <value>Label10</value>
+  </data>
+  <data name="&gt;&gt;Label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label10.Parent" xml:space="preserve">
+    <value>MutexGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label10.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblMutexThreadNum.AccessibleDescription" xml:space="preserve">
+    <value>Mutex Thread Number</value>
+  </data>
+  <data name="lblMutexThreadNum.AccessibleName" xml:space="preserve">
+    <value>Mutex Thread Number</value>
+  </data>
+  <data name="lblMutexThreadNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblMutexThreadNum.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblMutexThreadNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 67</value>
+  </data>
+  <data name="lblMutexThreadNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="lblMutexThreadNum.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblMutexThreadNum.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadNum.Name" xml:space="preserve">
+    <value>lblMutexThreadNum</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadNum.Parent" xml:space="preserve">
+    <value>MutexGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadNum.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 74</value>
+  </data>
+  <data name="Label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 18</value>
+  </data>
+  <data name="Label13.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Label13.Text" xml:space="preserve">
+    <value>Thread Number</value>
+  </data>
+  <data name="&gt;&gt;Label13.Name" xml:space="preserve">
+    <value>Label13</value>
+  </data>
+  <data name="&gt;&gt;Label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label13.Parent" xml:space="preserve">
+    <value>MutexGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Label13.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblMutexThreadStatus.AccessibleDescription" xml:space="preserve">
+    <value>lblMutexThreadStatus</value>
+  </data>
+  <data name="lblMutexThreadStatus.AccessibleName" xml:space="preserve">
+    <value>lblMutexThreadStatus</value>
+  </data>
+  <data name="lblMutexThreadStatus.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
+  </data>
+  <data name="lblMutexThreadStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblMutexThreadStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 37</value>
+  </data>
+  <data name="lblMutexThreadStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 18</value>
+  </data>
+  <data name="lblMutexThreadStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblMutexThreadStatus.Text" xml:space="preserve">
+    <value>Inactive</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadStatus.Name" xml:space="preserve">
+    <value>lblMutexThreadStatus</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadStatus.Parent" xml:space="preserve">
+    <value>MutexGroupBox</value>
+  </data>
+  <data name="&gt;&gt;lblMutexThreadStatus.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="MutexGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 120</value>
+  </data>
+  <data name="MutexGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 185</value>
+  </data>
+  <data name="MutexGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="MutexGroupBox.Text" xml:space="preserve">
+    <value>Wait for Mutex</value>
+  </data>
+  <data name="&gt;&gt;MutexGroupBox.Name" xml:space="preserve">
+    <value>MutexGroupBox</value>
+  </data>
+  <data name="&gt;&gt;MutexGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MutexGroupBox.Parent" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;MutexGroupBox.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="SyncObjectsTabPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="SyncObjectsTabPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>552, 463</value>
+  </data>
+  <data name="SyncObjectsTabPage.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="SyncObjectsTabPage.Text" xml:space="preserve">
+    <value>Synchronization Objects</value>
+  </data>
+  <data name="&gt;&gt;SyncObjectsTabPage.Name" xml:space="preserve">
+    <value>SyncObjectsTabPage</value>
+  </data>
+  <data name="&gt;&gt;SyncObjectsTabPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SyncObjectsTabPage.Parent" xml:space="preserve">
+    <value>MainTabControl</value>
+  </data>
+  <data name="&gt;&gt;SyncObjectsTabPage.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="MainTabControl.ItemSize" type="System.Drawing.Size, System.Drawing">
+    <value>99, 18</value>
+  </data>
+  <data name="MainTabControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 9</value>
+  </data>
+  <data name="MainTabControl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>560, 489</value>
+  </data>
+  <data name="MainTabControl.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;MainTabControl.Name" xml:space="preserve">
+    <value>MainTabControl</value>
+  </data>
+  <data name="&gt;&gt;MainTabControl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MainTabControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MainTabControl.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleBaseSize" type="System.Drawing.Size, System.Drawing">
+    <value>5, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>578, 443</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzAAAAAAAAAAAAAAAzu7
+        u7u7szMAAAAAAAAAAD/7szMzAAAzMwAAAAAAAAA78zu7u7szADMAAAAAAAAAAz/7MzAAAzMAAAAAAAAA
+        AAADM/u7MzAAAAAAAAAAAAAAAAAwMzAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAzMAAAAAAAAA
+        AAAAAAAAAzuzMzMwAAAAAAAAAAAAAzuzAAAAAzAAAAAAAAAAADu7AFVmZVADMAAAAAAAAAP7MHd2VVZm
+        YDMAAAAAAAAAMwd4dohlZlUDMAAAAAAAAAB4LX7u5lVmUDAAAAAAAAAGctInftjmV1cDAAAAAAAABi0i
+        Lu3uImV3AwAAAAAAAN7t7u7e3iIld1AwAAAAAADe3n7t7u0ihlZQMAAAAAAAbe5+3u7i0tJlYDAAAAAA
+        AG2u7f7+4i0ihWAwAAAAAABnrt9/7+LScoVgMAAAAAAA2t6O9/79In5mUDMAAAAAAGqt7+9/fuqndlCz
+        AAAAAAAGp+7+9/6qrYYDswAAAAAABt7e5393qtp2CzAAAAAAAABu597u7t2ocLswAAAAAAAABt7t7u3q
+        dwOzAAAAAAAAAABm7t3e5mA/swAAAAAAAAAAAG1mbdAAPzAAAAAAAAAAAAAAAAAAAAMAAAAA/4AD//4A
+        AP/8AAB//AAAf/wAAH/+AAD//4AD///wH////H///+Af//+AB//+AAH//AAA//gAAH/8AAA//gAAP/4A
+        AB/+AAAf/AAAD/wAAA/8AAAP/AAAD/wAAA/8AAAP/AAAD/4AAA/+AAAf/wAAH/+AAD//wAA///Acf///
+        /v8oAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAP7MzMz
+        AAAAADO7MwAAAAAAADMwAAAAAAAAAwAAAAAAAAMzMAAAAAAAOzADMAAAAAOwZmAzAAAAAwLujQMwAAAN
+        7t7ScDAAAAZ+7eVgMAAABt7f1nCDAAAGrf/l0LMAAABu3u1gswAAAAbt1gswAAAAAIZoMwAA8A8AAOAH
+        AADwDwAA/D8AAP5/AAD4HwAA8A8AAOAHAADgAwAA4AMAAOADAADgAwAA4AMAAPADAAD4BwAA/A8AAA==
+</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Title Comes from Assembly Info</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmMain</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

@@ -1,0 +1,5 @@
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Server\bin\Debug\RemoteCustomer.dll
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Server\bin\Debug\RemoteCustomer.pdb
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Server\obj\Debug\RemoteCustomer.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Server\obj\Debug\RemoteCustomer.dll
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Server\obj\Debug\RemoteCustomer.pdb

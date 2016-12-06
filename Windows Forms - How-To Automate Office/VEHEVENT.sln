@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VEHEVENT", "VEHEVENT.csproj", "{12FE2B00-A130-4720-AEB9-83637D46E9C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FE2B00-A130-4720-AEB9-83637D46E9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FE2B00-A130-4720-AEB9-83637D46E9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FE2B00-A130-4720-AEB9-83637D46E9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FE2B00-A130-4720-AEB9-83637D46E9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

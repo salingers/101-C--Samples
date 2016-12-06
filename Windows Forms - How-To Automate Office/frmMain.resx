@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="mnuMain.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="mnuExit.Text" xml:space="preserve">
+    <value>E&amp;xit</value>
+  </data>
+  <data name="mnuFile.Text" xml:space="preserve">
+    <value>&amp;File</value>
+  </data>
+  <data name="mnuAbout.Text" xml:space="preserve">
+    <value>Text Comes from AssemblyInfo</value>
+  </data>
+  <data name="mnuHelp.Text" xml:space="preserve">
+    <value>&amp;Help</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabOfficeDemo.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="pgeWizard.AccessibleDescription" xml:space="preserve">
+    <value>TabPage with text "Wizard"</value>
+  </data>
+  <data name="pgeWizard.AccessibleName" xml:space="preserve">
+    <value>Wizard tab</value>
+  </data>
+  <data name="GroupBox1.AccessibleDescription" xml:space="preserve">
+    <value>GroupBox with text "Some Merlin Animations"</value>
+  </data>
+  <data name="GroupBox1.AccessibleName" xml:space="preserve">
+    <value>Some Merlin Animations</value>
+  </data>
+  <data name="optDontRecognize.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Don't Recognize"</value>
+  </data>
+  <data name="optDontRecognize.AccessibleName" xml:space="preserve">
+    <value>Don't Recognize</value>
+  </data>
+  <data name="optDontRecognize.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="optDontRecognize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 138</value>
+  </data>
+  <data name="optDontRecognize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 28</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="optDontRecognize.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="optDontRecognize.Text" xml:space="preserve">
+    <value>&amp;Don't Recognize</value>
+  </data>
+  <data name="&gt;&gt;optDontRecognize.Name" xml:space="preserve">
+    <value>optDontRecognize</value>
+  </data>
+  <data name="&gt;&gt;optDontRecognize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optDontRecognize.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optDontRecognize.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="optWrite.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Write"</value>
+  </data>
+  <data name="optWrite.AccessibleName" xml:space="preserve">
+    <value>Write</value>
+  </data>
+  <data name="optWrite.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optWrite.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 111</value>
+  </data>
+  <data name="optWrite.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 27</value>
+  </data>
+  <data name="optWrite.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="optWrite.Text" xml:space="preserve">
+    <value>&amp;Write</value>
+  </data>
+  <data name="&gt;&gt;optWrite.Name" xml:space="preserve">
+    <value>optWrite</value>
+  </data>
+  <data name="&gt;&gt;optWrite.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optWrite.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optWrite.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="optWave.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Wave"</value>
+  </data>
+  <data name="optWave.AccessibleName" xml:space="preserve">
+    <value>Wave</value>
+  </data>
+  <data name="optWave.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optWave.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 83</value>
+  </data>
+  <data name="optWave.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 28</value>
+  </data>
+  <data name="optWave.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="optWave.Text" xml:space="preserve">
+    <value>Wa&amp;ve</value>
+  </data>
+  <data name="&gt;&gt;optWave.Name" xml:space="preserve">
+    <value>optWave</value>
+  </data>
+  <data name="&gt;&gt;optWave.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optWave.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optWave.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="optApplaud.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Applaud"</value>
+  </data>
+  <data name="optApplaud.AccessibleName" xml:space="preserve">
+    <value>Applaud</value>
+  </data>
+  <data name="optApplaud.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optApplaud.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 55</value>
+  </data>
+  <data name="optApplaud.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 28</value>
+  </data>
+  <data name="optApplaud.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="optApplaud.Text" xml:space="preserve">
+    <value>A&amp;pplaud</value>
+  </data>
+  <data name="&gt;&gt;optApplaud.Name" xml:space="preserve">
+    <value>optApplaud</value>
+  </data>
+  <data name="&gt;&gt;optApplaud.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optApplaud.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optApplaud.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="optSurprised.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Surprised"</value>
+  </data>
+  <data name="optSurprised.AccessibleName" xml:space="preserve">
+    <value>Surprised</value>
+  </data>
+  <data name="optSurprised.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optSurprised.Location" type="System.Drawing.Point, System.Drawing">
+    <value>168, 28</value>
+  </data>
+  <data name="optSurprised.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 27</value>
+  </data>
+  <data name="optSurprised.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="optSurprised.Text" xml:space="preserve">
+    <value>Su&amp;rprised</value>
+  </data>
+  <data name="&gt;&gt;optSurprised.Name" xml:space="preserve">
+    <value>optSurprised</value>
+  </data>
+  <data name="&gt;&gt;optSurprised.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optSurprised.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optSurprised.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="optSuggest.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Suggest"</value>
+  </data>
+  <data name="optSuggest.AccessibleName" xml:space="preserve">
+    <value>Suggest</value>
+  </data>
+  <data name="optSuggest.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optSuggest.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 138</value>
+  </data>
+  <data name="optSuggest.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 28</value>
+  </data>
+  <data name="optSuggest.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="optSuggest.Text" xml:space="preserve">
+    <value>S&amp;uggest</value>
+  </data>
+  <data name="&gt;&gt;optSuggest.Name" xml:space="preserve">
+    <value>optSuggest</value>
+  </data>
+  <data name="&gt;&gt;optSuggest.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optSuggest.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optSuggest.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="optAnnounce.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Announce"</value>
+  </data>
+  <data name="optAnnounce.AccessibleName" xml:space="preserve">
+    <value>Announce</value>
+  </data>
+  <data name="optAnnounce.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optAnnounce.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 111</value>
+  </data>
+  <data name="optAnnounce.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 27</value>
+  </data>
+  <data name="optAnnounce.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="optAnnounce.Text" xml:space="preserve">
+    <value>&amp;Announce</value>
+  </data>
+  <data name="&gt;&gt;optAnnounce.Name" xml:space="preserve">
+    <value>optAnnounce</value>
+  </data>
+  <data name="&gt;&gt;optAnnounce.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optAnnounce.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optAnnounce.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="optDoMagic.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Get Attention"</value>
+  </data>
+  <data name="optDoMagic.AccessibleName" xml:space="preserve">
+    <value>Get Attention</value>
+  </data>
+  <data name="optDoMagic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optDoMagic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 83</value>
+  </data>
+  <data name="optDoMagic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 28</value>
+  </data>
+  <data name="optDoMagic.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="optDoMagic.Text" xml:space="preserve">
+    <value>&amp;Get Attention</value>
+  </data>
+  <data name="&gt;&gt;optDoMagic.Name" xml:space="preserve">
+    <value>optDoMagic</value>
+  </data>
+  <data name="&gt;&gt;optDoMagic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optDoMagic.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optDoMagic.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="optExplain.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Explain"</value>
+  </data>
+  <data name="optExplain.AccessibleName" xml:space="preserve">
+    <value>Explain</value>
+  </data>
+  <data name="optExplain.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optExplain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 55</value>
+  </data>
+  <data name="optExplain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 28</value>
+  </data>
+  <data name="optExplain.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="optExplain.Text" xml:space="preserve">
+    <value>&amp;Explain</value>
+  </data>
+  <data name="&gt;&gt;optExplain.Name" xml:space="preserve">
+    <value>optExplain</value>
+  </data>
+  <data name="&gt;&gt;optExplain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optExplain.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optExplain.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="optCongrats.AccessibleDescription" xml:space="preserve">
+    <value>RadioButton with text "Congrats"</value>
+  </data>
+  <data name="optCongrats.AccessibleName" xml:space="preserve">
+    <value>Congrats</value>
+  </data>
+  <data name="optCongrats.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="optCongrats.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 28</value>
+  </data>
+  <data name="optCongrats.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 27</value>
+  </data>
+  <data name="optCongrats.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="optCongrats.Text" xml:space="preserve">
+    <value>&amp;Congrats</value>
+  </data>
+  <data name="&gt;&gt;optCongrats.Name" xml:space="preserve">
+    <value>optCongrats</value>
+  </data>
+  <data name="&gt;&gt;optCongrats.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;optCongrats.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;optCongrats.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="GroupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
+  <data name="GroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 148</value>
+  </data>
+  <data name="GroupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>320, 184</value>
+  </data>
+  <data name="GroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="GroupBox1.Text" xml:space="preserve">
+    <value>Some Merlin Animations</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Name" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Parent" xml:space="preserve">
+    <value>pgeWizard</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnSpeak.AccessibleDescription" xml:space="preserve">
+    <value>Button with text "Speak, O Great One!"</value>
+  </data>
+  <data name="btnSpeak.AccessibleName" xml:space="preserve">
+    <value>Speak, O Great One!</value>
+  </data>
+  <data name="btnSpeak.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSpeak.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 102</value>
+  </data>
+  <data name="btnSpeak.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 26</value>
+  </data>
+  <data name="btnSpeak.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnSpeak.Text" xml:space="preserve">
+    <value>&amp;Speak, O Great One!</value>
+  </data>
+  <data name="&gt;&gt;btnSpeak.Name" xml:space="preserve">
+    <value>btnSpeak</value>
+  </data>
+  <data name="&gt;&gt;btnSpeak.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSpeak.Parent" xml:space="preserve">
+    <value>pgeWizard</value>
+  </data>
+  <data name="&gt;&gt;btnSpeak.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtSpeak.AccessibleDescription" xml:space="preserve">
+    <value>TextBox to enter words for Merlin to speak</value>
+  </data>
+  <data name="txtSpeak.AccessibleName" xml:space="preserve">
+    <value>Merlin words TextBox</value>
+  </data>
+  <data name="txtSpeak.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 25</value>
+  </data>
+  <data name="txtSpeak.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtSpeak.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="txtSpeak.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 67</value>
+  </data>
+  <data name="txtSpeak.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txtSpeak.Name" xml:space="preserve">
+    <value>txtSpeak</value>
+  </data>
+  <data name="&gt;&gt;txtSpeak.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtSpeak.Parent" xml:space="preserve">
+    <value>pgeWizard</value>
+  </data>
+  <data name="&gt;&gt;txtSpeak.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label2.AccessibleDescription" xml:space="preserve">
+    <value>Label with text "Make Merlin say this"</value>
+  </data>
+  <data name="Label2.AccessibleName" xml:space="preserve">
+    <value>Make Merlin say this:</value>
+  </data>
+  <data name="Label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
+  </data>
+  <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 28</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 26</value>
+  </data>
+  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Make Merlin say this:</value>
+  </data>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>pgeWizard</value>
+  </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pgeWizard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="pgeWizard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>544, 285</value>
+  </data>
+  <data name="pgeWizard.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="pgeWizard.Text" xml:space="preserve">
+    <value>Wizard</value>
+  </data>
+  <data name="&gt;&gt;pgeWizard.Name" xml:space="preserve">
+    <value>pgeWizard</value>
+  </data>
+  <data name="&gt;&gt;pgeWizard.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pgeWizard.Parent" xml:space="preserve">
+    <value>tabOfficeDemo</value>
+  </data>
+  <data name="&gt;&gt;pgeWizard.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pgeWord.AccessibleDescription" xml:space="preserve">
+    <value>TabPage with text "Word"</value>
+  </data>
+  <data name="pgeWord.AccessibleName" xml:space="preserve">
+    <value>Word tab</value>
+  </data>
+  <data name="btnSpellCheck.AccessibleDescription" xml:space="preserve">
+    <value>Button with text "Spell Check"</value>
+  </data>
+  <data name="btnSpellCheck.AccessibleName" xml:space="preserve">
+    <value>Spell Check</value>
+  </data>
+  <data name="btnSpellCheck.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSpellCheck.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 28</value>
+  </data>
+  <data name="btnSpellCheck.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 26</value>
+  </data>
+  <data name="btnSpellCheck.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnSpellCheck.Text" xml:space="preserve">
+    <value>&amp;Spell Check</value>
+  </data>
+  <data name="&gt;&gt;btnSpellCheck.Name" xml:space="preserve">
+    <value>btnSpellCheck</value>
+  </data>
+  <data name="&gt;&gt;btnSpellCheck.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSpellCheck.Parent" xml:space="preserve">
+    <value>pgeWord</value>
+  </data>
+  <data name="&gt;&gt;btnSpellCheck.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rtfDocument.AccessibleDescription" xml:space="preserve">
+    <value>RichTextBox for Word demo</value>
+  </data>
+  <data name="rtfDocument.AccessibleName" xml:space="preserve">
+    <value>Word RichTextBox</value>
+  </data>
+  <data name="rtfDocument.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="rtfDocument.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 74</value>
+  </data>
+  <data name="rtfDocument.Size" type="System.Drawing.Size, System.Drawing">
+    <value>496, 240</value>
+  </data>
+  <data name="rtfDocument.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="rtfDocument.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;rtfDocument.Name" xml:space="preserve">
+    <value>rtfDocument</value>
+  </data>
+  <data name="&gt;&gt;rtfDocument.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rtfDocument.Parent" xml:space="preserve">
+    <value>pgeWord</value>
+  </data>
+  <data name="&gt;&gt;rtfDocument.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnBrowseWord.AccessibleDescription" xml:space="preserve">
+    <value>Button with text "Browse"</value>
+  </data>
+  <data name="btnBrowseWord.AccessibleName" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="btnBrowseWord.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnBrowseWord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 28</value>
+  </data>
+  <data name="btnBrowseWord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 26</value>
+  </data>
+  <data name="btnBrowseWord.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnBrowseWord.Text" xml:space="preserve">
+    <value>&amp;Browse...</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseWord.Name" xml:space="preserve">
+    <value>btnBrowseWord</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseWord.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseWord.Parent" xml:space="preserve">
+    <value>pgeWord</value>
+  </data>
+  <data name="&gt;&gt;btnBrowseWord.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pgeWord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="pgeWord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>544, 285</value>
+  </data>
+  <data name="pgeWord.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="pgeWord.Text" xml:space="preserve">
+    <value>Word</value>
+  </data>
+  <data name="&gt;&gt;pgeWord.Name" xml:space="preserve">
+    <value>pgeWord</value>
+  </data>
+  <data name="&gt;&gt;pgeWord.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pgeWord.Parent" xml:space="preserve">
+    <value>tabOfficeDemo</value>
+  </data>
+  <data name="&gt;&gt;pgeWord.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pgeExcel.AccessibleDescription" xml:space="preserve">
+    <value>TabPage with text "Excel"</value>
+  </data>
+  <data name="pgeExcel.AccessibleName" xml:space="preserve">
+    <value>Excel tab</value>
+  </data>
+  <data name="btnExport.AccessibleDescription" xml:space="preserve">
+    <value>Button with text "Export to Excel &gt;&gt;"</value>
+  </data>
+  <data name="btnExport.AccessibleName" xml:space="preserve">
+    <value>Export to Excel</value>
+  </data>
+  <data name="btnExport.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnExport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>184, 28</value>
+  </data>
+  <data name="btnExport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 26</value>
+  </data>
+  <data name="btnExport.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnExport.Text" xml:space="preserve">
+    <value>&amp;Export to Excel &gt;&gt;</value>
+  </data>
+  <data name="&gt;&gt;btnExport.Name" xml:space="preserve">
+    <value>btnExport</value>
+  </data>
+  <data name="&gt;&gt;btnExport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnExport.Parent" xml:space="preserve">
+    <value>pgeExcel</value>
+  </data>
+  <data name="&gt;&gt;btnExport.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnGetMenu.AccessibleDescription" xml:space="preserve">
+    <value>Button with text "Show Today's Menu"</value>
+  </data>
+  <data name="btnGetMenu.AccessibleName" xml:space="preserve">
+    <value>Show Today's Menu</value>
+  </data>
+  <data name="btnGetMenu.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnGetMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 28</value>
+  </data>
+  <data name="btnGetMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 26</value>
+  </data>
+  <data name="btnGetMenu.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnGetMenu.Text" xml:space="preserve">
+    <value>&amp;Show Today's Menu</value>
+  </data>
+  <data name="&gt;&gt;btnGetMenu.Name" xml:space="preserve">
+    <value>btnGetMenu</value>
+  </data>
+  <data name="&gt;&gt;btnGetMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnGetMenu.Parent" xml:space="preserve">
+    <value>pgeExcel</value>
+  </data>
+  <data name="&gt;&gt;btnGetMenu.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="grdMenu.AccessibleDescription" xml:space="preserve">
+    <value>DataGrid to display menu</value>
+  </data>
+  <data name="grdMenu.AccessibleName" xml:space="preserve">
+    <value>Menu DataGrid</value>
+  </data>
+  <data name="grdMenu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 8pt</value>
+  </data>
+  <data name="grdMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 65</value>
+  </data>
+  <data name="grdMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 161</value>
+  </data>
+  <data name="grdMenu.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;grdMenu.Name" xml:space="preserve">
+    <value>grdMenu</value>
+  </data>
+  <data name="&gt;&gt;grdMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGrid, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grdMenu.Parent" xml:space="preserve">
+    <value>pgeExcel</value>
+  </data>
+  <data name="&gt;&gt;grdMenu.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pgeExcel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="pgeExcel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>544, 285</value>
+  </data>
+  <data name="pgeExcel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="pgeExcel.Text" xml:space="preserve">
+    <value>Excel</value>
+  </data>
+  <data name="&gt;&gt;pgeExcel.Name" xml:space="preserve">
+    <value>pgeExcel</value>
+  </data>
+  <data name="&gt;&gt;pgeExcel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pgeExcel.Parent" xml:space="preserve">
+    <value>tabOfficeDemo</value>
+  </data>
+  <data name="&gt;&gt;pgeExcel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tabOfficeDemo.ItemSize" type="System.Drawing.Size, System.Drawing">
+    <value>45, 18</value>
+  </data>
+  <data name="tabOfficeDemo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 46</value>
+  </data>
+  <data name="tabOfficeDemo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>552, 311</value>
+  </data>
+  <data name="tabOfficeDemo.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabOfficeDemo.Name" xml:space="preserve">
+    <value>tabOfficeDemo</value>
+  </data>
+  <data name="&gt;&gt;tabOfficeDemo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabOfficeDemo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabOfficeDemo.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="dlgOpenWordFile.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>114, 17</value>
+  </metadata>
+  <data name="chkMerlinHide.AccessibleDescription" xml:space="preserve">
+    <value>Checkbox with text "Hide Merlin"</value>
+  </data>
+  <data name="chkMerlinHide.AccessibleName" xml:space="preserve">
+    <value>Hide Merlin</value>
+  </data>
+  <data name="chkMerlinHide.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkMerlinHide.Location" type="System.Drawing.Point, System.Drawing">
+    <value>472, 9</value>
+  </data>
+  <data name="chkMerlinHide.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 28</value>
+  </data>
+  <data name="chkMerlinHide.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="chkMerlinHide.Text" xml:space="preserve">
+    <value>&amp;Hide Merlin</value>
+  </data>
+  <data name="&gt;&gt;chkMerlinHide.Name" xml:space="preserve">
+    <value>chkMerlinHide</value>
+  </data>
+  <data name="&gt;&gt;chkMerlinHide.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkMerlinHide.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;chkMerlinHide.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleBaseSize" type="System.Drawing.Size, System.Drawing">
+    <value>5, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>586, 379</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAICAQAAAAAADoAgAAJgAAABAQEAAAAAAAKAEAAA4DAAAoAAAAIAAAAEAAAAABAAQAAAAAAIAC
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAICAgADAwMAAAAD/AAD/
+        AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzAAAAAAAAAAAAAAAzu7
+        u7u7szMAAAAAAAAAAD/7szMzAAAzMwAAAAAAAAA78zu7u7szADMAAAAAAAAAAz/7MzAAAzMAAAAAAAAA
+        AAADM/u7MzAAAAAAAAAAAAAAAAAwMzAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAzMAAAAAAAAA
+        AAAAAAAAAzuzMzMwAAAAAAAAAAAAAzuzAAAAAzAAAAAAAAAAADu7AFVmZVADMAAAAAAAAAP7MHd2VVZm
+        YDMAAAAAAAAAMwd4dohlZlUDMAAAAAAAAAB4LX7u5lVmUDAAAAAAAAAGctInftjmV1cDAAAAAAAABi0i
+        Lu3uImV3AwAAAAAAAN7t7u7e3iIld1AwAAAAAADe3n7t7u0ihlZQMAAAAAAAbe5+3u7i0tJlYDAAAAAA
+        AG2u7f7+4i0ihWAwAAAAAABnrt9/7+LScoVgMAAAAAAA2t6O9/79In5mUDMAAAAAAGqt7+9/fuqndlCz
+        AAAAAAAGp+7+9/6qrYYDswAAAAAABt7e5393qtp2CzAAAAAAAABu597u7t2ocLswAAAAAAAABt7t7u3q
+        dwOzAAAAAAAAAABm7t3e5mA/swAAAAAAAAAAAG1mbdAAPzAAAAAAAAAAAAAAAAAAAAMAAAAA/4AD//4A
+        AP/8AAB//AAAf/wAAH/+AAD//4AD///wH////H///+Af//+AB//+AAH//AAA//gAAH/8AAA//gAAP/4A
+        AB/+AAAf/AAAD/wAAA/8AAAP/AAAD/wAAA/8AAAP/AAAD/4AAA/+AAAf/wAAH/+AAD//wAA///Acf///
+        /v8oAAAAEAAAACAAAAABAAQAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAA
+        AACAAIAAgIAAAICAgADAwMAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAAAAAAAAAAAAAP7MzMz
+        AAAAADO7MwAAAAAAADMwAAAAAAAAAwAAAAAAAAMzMAAAAAAAOzADMAAAAAOwZmAzAAAAAwLujQMwAAAN
+        7t7ScDAAAAZ+7eVgMAAABt7f1nCDAAAGrf/l0LMAAABu3u1gswAAAAbt1gswAAAAAIZoMwAA8A8AAOAH
+        AADwDwAA/D8AAP5/AAD4HwAA8A8AAOAHAADgAwAA4AMAAOADAADgAwAA4AMAAPADAAD4BwAA/A8AAA==
+</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="&gt;&gt;mnuMain.Name" xml:space="preserve">
+    <value>mnuMain</value>
+  </data>
+  <data name="&gt;&gt;mnuMain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MainMenu, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mnuFile.Name" xml:space="preserve">
+    <value>mnuFile</value>
+  </data>
+  <data name="&gt;&gt;mnuFile.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mnuExit.Name" xml:space="preserve">
+    <value>mnuExit</value>
+  </data>
+  <data name="&gt;&gt;mnuExit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mnuHelp.Name" xml:space="preserve">
+    <value>mnuHelp</value>
+  </data>
+  <data name="&gt;&gt;mnuHelp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mnuAbout.Name" xml:space="preserve">
+    <value>mnuAbout</value>
+  </data>
+  <data name="&gt;&gt;mnuAbout.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dlgOpenWordFile.Name" xml:space="preserve">
+    <value>dlgOpenWordFile</value>
+  </data>
+  <data name="&gt;&gt;dlgOpenWordFile.Type" xml:space="preserve">
+    <value>System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmMain</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

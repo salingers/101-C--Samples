@@ -1,0 +1,9 @@
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\obj\Debug\ResolveAssemblyReference.cache
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\obj\Debug\frmMain.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\obj\Debug\frmModules.resources
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\obj\Debug\ResGen.read.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\obj\Debug\ResGen.write.1.tlog
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\bin\Debug\How-To Process Viewer.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\bin\Debug\How-To Process Viewer.pdb
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\obj\Debug\How-To Process Viewer.exe
+F:\My Library\Visual Studio Library\101 C# Samples\Framework - How-To Process Viewer\obj\Debug\How-To Process Viewer.pdb

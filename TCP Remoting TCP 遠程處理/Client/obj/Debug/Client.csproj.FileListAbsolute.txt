@@ -1,0 +1,10 @@
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\bin\Debug\Client.exe.config
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\bin\Debug\Client.exe
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\bin\Debug\Client.pdb
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\bin\Debug\RemoteCustomer.dll
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\bin\Debug\RemoteCustomer.pdb
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\obj\Debug\frmMain.resources
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\obj\Debug\Client.exe
+S:\Documents\Sample\101 C# Samples\Advanced - Remoting - How-To TCP Remoting\Client\obj\Debug\Client.pdb
